@@ -1,0 +1,72 @@
+[
+  {
+    "key": "bingo_about_promo",
+    "cyrillic": "акция туралы",
+    "latin": "aktsiia turaly",
+    "source": "об акции",
+    "evidence": "14 Latin chars vs 12 Cyrillic / 8 source"
+  },
+  {
+    "key": "licenses",
+    "cyrillic": "Лицензиялар",
+    "latin": "Litsenziialar",
+    "source": "Лицензии",
+    "evidence": "13 Latin chars vs 11 Cyrillic / 8 source"
+  },
+  {
+    "key": "halloweenPromotions",
+    "cyrillic": "АКЦИЯЛАР",
+    "latin": "AKTSİİALAR",
+    "source": "АКЦИИ",
+    "evidence": "10 Latin chars vs 8 Cyrillic / 5 source"
+  },
+  {
+    "key": "newYearPromotions",
+    "cyrillic": "АКЦИЯЛАР",
+    "latin": "AKTSİİALAR",
+    "source": "АКЦИИ",
+    "evidence": "10 Latin chars vs 8 Cyrillic / 5 source"
+  },
+  {
+    "key": "newYearInfoTitle5",
+    "cyrillic": "АКЦИЯЛАР",
+    "latin": "AKTSİİALAR",
+    "source": "АКЦИИ",
+    "evidence": "10 Latin chars vs 8 Cyrillic / 5 source"
+  },
+  {
+    "key": "lnyBossFightChi",
+    "cyrillic": "ЦИ\nЭНЕРГИЯСЫ",
+    "latin": "TSİ\nENERGİİASY",
+    "source": "ЭНЕРГИЯ\nЦИ",
+    "evidence": "14 Latin chars vs 12 Cyrillic / 10 source"
+  },
+  {
+    "key": "userMenuEventsHeaderPromotions",
+    "cyrillic": "АКЦИЯЛАР",
+    "latin": "AKTSİİALAR",
+    "source": "АКЦИИ",
+    "evidence": "10 Latin chars vs 8 Cyrillic / 5 source"
+  },
+  {
+    "key": "userMenuEventsTabPromotions",
+    "cyrillic": "Акциялар",
+    "latin": "Aktsiialar",
+    "source": "Акции",
+    "evidence": "10 Latin chars vs 8 Cyrillic / 5 source"
+  },
+  {
+    "key": "questsV2RatingAboutTitle",
+    "cyrillic": "Акция туралы",
+    "latin": "Aktsiia turaly",
+    "source": "Об акции",
+    "evidence": "14 Latin chars vs 12 Cyrillic / 8 source"
+  },
+  {
+    "key": "bingoHeistTabAbout",
+    "cyrillic": "Акция\nтуралы",
+    "latin": "Aktsiia\nturaly",
+    "source": "Об акции",
+    "evidence": "14 Latin chars vs 12 Cyrillic / 8 source"
+  }
+]

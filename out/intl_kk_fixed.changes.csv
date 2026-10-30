@@ -1,0 +1,443 @@
+key,issue_types,original,fixed,reviewed_by_human,reviewer
+bankConfirmApartment,untranslated,,"Сіз шынымен жылжымайтын мүлікке төлем жасағыңыз келе ме: Пәтер
+сомасы",yes,Sayan
+bigCatchStoryLineSkipTimer,untranslated,,Таймерді өткізіп жіберу,yes,Sayan
+bigCatchTournamentsVictories,untranslated,,Турнирлердегі жеңістер,yes,Sayan
+invDisassemble,untranslated,,БӨЛШЕКТЕУ,yes,Sayan
+inventory,untranslated,,Инвентарь,yes,Sayan
+inventoryMailSubsectionLeftHand,untranslated,,Сол қол,yes,Sayan
+laAccountEmptyHelpTopText1,untranslated,,"Мұнда кейіпкерлеріңіздің
+статистикасы көрсетіледі",yes,Sayan
+laYouNeedToLinkThisSocialNetworkToAccount,untranslated,,Бұл әлеуметтік желіні аккаунтқа байланыстыру қажет,yes,Sayan
+newYearInfoDesc2,untranslated,,"Тапсырмалар үшін Маусымдық Пропуск тәжірибесін және Кәмпиттер алуға болады.
+
+Күнделікті тапсырмалар күн сайын жаңарады, оларды арнайы бустер арқылы да жаңартуға болады.
+
+Маусымдық Пропускты сатып алғанда арнайы тапсырмаларға қолжетімділік ашылады.",yes,Sayan
+piggyGetBy,untranslated,,Алу бағасы:,yes,Sayan
+predictionsBetsPossibleReward,untranslated,,Ықтимал ұтыс,yes,Sayan
+tablet_auc_all_your_bets,untranslated,,Барлық тігімдеріңіз,yes,Sayan
+laAuthorisationError,wrong_language,Avtorizatsiya xatosi,Авторизация қатесі,yes,Sayan
+pauseSettingsSocialMedia,wrong_language,IJTIMOIY TARMOQNI BOG‘LASH,ӘЛЕУМЕТТІК ЖЕЛІЛЕРДІ БАЙЛАНЫСТЫРУ,yes,Sayan
+settingsGameShowHud,wrong_language,HUD’ni ko‘rsatish,HUD көрсету,yes,Sayan
+donate_to_mail,wrong_language,Pochta bo‘limiga,Поштаға,yes,Sayan
+repeat,wrong_language,Takrorlash,Тағы бір рет,yes,Sayan
+arena_starting_health,wrong_language,Standart salomatlik,Бастапқы денсаулық,yes,Sayan
+bankTotalToPay,wrong_language,Jami to‘lov:,Барлық төлем:,yes,Sayan
+summerRushFreshCases,wrong_language,Yangi qutilar,Жаңа кейстер,yes,Sayan
+birthday_info_more_play,same_as_source,Чем больше играешь - тем выше Ты и Твоя Команда!,"Неғұрлым көп ойнасаң, соғұрлым сен де, командаң да жоғары көтерілесіңдер!",yes,Sayan
+birthday_main_updates_in,placeholder_mismatch,Жаңарады: time,Жаңаруына қалды: {time},yes,Sayan
+arena_platform_colorname,placeholder_mismatch,{platformColo} платформаға тұрыңыз,{platformColor} платформаға тұрыңыз,yes,Sayan
+launcherSettingsDeleteAccountConfirm,wrong_language,"Para excluir o perfil do jogo,
+o aplicativo será fechado.
+Por favor, abra-o novamente.","Ойын профилін жою үшін
+қосымша жабылады.
+Өтінеміз, оны қайта іске қосыңыз.",yes,Sayan
+edu_tablet_purchase_item_lottery_ticket,wrong_language,Lotereya chiptasi,Лотерея билеті,yes,Sayan
+dragRacingV2BuyDesc1,placeholder_mismatch,blueprintTitle үшін сызбалар,{blueprintTitle} үшін сызбалар,yes,Sayan
+predictionsBuyCoinsMinError,placeholder_mismatch,min-нан аз сатып алуға болмайды,{min} мөлшерінен аз сатып алуға болмайды,yes,Sayan
+rustoreOfferBuyFor,placeholder_mismatch,price бағасына сатып алу,{price} бағасына сатып алу,yes,Sayan
+chaosUpgradeText,placeholder_mismatch,"Сіз өз көлігіңіздің upgradeTitle
+көрсеткішін {upgradeLevel} деңгейге дейін жақсарттыңыз!",Көлігіңіздің {upgradeTitle} жақсартуын {upgradeLevel} деңгейіне көтердіңіз!,yes,Sayan
+chaosStep3Part1Text,same_as_source,"Задания подскажут, чем заняться дальше,
+если ты не знаешь, куда ехать. Просто выбери
+цель – и город сам найдёт способ проверить тебя.","
+Қайда барарыңды білмесең, тапсырмалар
+әрі қарай не істеу керегін көрсетеді. Мақсатты
+таңда — қала сені сынаудың жолын өзі табады.",yes,Sayan
+srv2endsIn,wrong_language,EVENT TUGASHIGA QOLDI:,ІС-ШАРАНЫҢ АЯҚТАЛУЫНА ҚАЛДЫ:,yes,Sayan
+schAssignmentTrainerIntro,placeholder_mismatch,"Бәрінен үздік болғың келе ме? Онда үздік бол!
+<g>Әр сағат сайын</g> бүкіл картада шамамен <g>books кітап</g> пайда болады!
+Оларды жинау үшін бәрінен жылдам әрі епті болуың керек!
+Кітаптарды жинап, маған әкелсең – сыйлық аласың.","Бәрінен үздік болғың келе ме? Ендеше, бол!
+<g>Әр сағат сайын</g> бүкіл картада шамамен <g>{books} кітап</g> пайда болады!
+Оларды жинау үшін бәрінен жылдам әрі епті болуың керек!
+Кітаптарды жинап, маған әкел — сыйлық аласың.",yes,Sayan
+schDuelsPointsAmount,placeholder_mismatch,ҰПАЙ,{points} ҰПАЙ,yes,Sayan
+schGiftPassConfirmQuestion,placeholder_mismatch,Сіз шынымен name сыйлағыңыз келе ме,Сіз шынымен {name} сыйлағыңыз келе ме,yes,Sayan
+schPassRewardLevelRequired,placeholder_mismatch,"Пасстың {leve}
+деңгейі қажет","Проспуктың {level}
+деңгейі қажет",yes,Sayan
+schStoreCasePossiblePrizes,placeholder_mismatch,Мүмкін сыйлықтар: title,Мүмкін сыйлықтар: {title},yes,Sayan
+schTutorialT2S1,placeholder_mismatch,"Жолақты бақыла: playerTeamText.
+Ұпайлар фракцияның барлық мүшелерінің әрекеттерінен жиналады.
+Дуэльдердің ережелері мен қатысу шарттарын білу үшін
+<g>Шайқас ақпараты</g> түймесін бас!","Шкаланы бақыла: {playerTeamText}.
+Ұпайлар фракцияның барлық мүшелерінің әрекеттерінен жиналады.
+Дуэльдердің ережелері мен қатысу шарттарын білу үшін
+<g>Шайқас ақпараты</g> батырмасын бас!",yes,Sayan
+schTutorialT8S0,same_as_source,"Нужны законные „чит-коды“ для быстрой победы?
+Раздел <g>Бустеры</g> — твой личный допинг-контроль! Здесь продаются
+специальные улучшения, которые дадут тебе преимущество над
+соперниками.","Жылдам жеңіс үшін заңды „чит-кодтар“ керек пе?
+<g>Бустерлер</g> бөлімі — сенің жеке күшейткішің! Мұнда
+қарсыластарыңнан басым түсуге көмектесетін арнайы
+жақсартулар сатылады.",yes,Sayan
+jungleTreasuresRecieveImmediately,same_as_source,и получить предмет сразу,және затты бірден алу,yes,Sayan
+bankConfirmHouse,same_as_source,"Вы действительно хотите оплатить недвижимость: Дом
+на сумму","Сіз шынымен жылжымайтын мүлікке төлем жасағыңыз келе ме: Үй
+сомасы",yes,Sayan
+summerRushAfkKickCountdown,same_as_source,До исключения за АФК,АФК үшін шығарылуға дейін,yes,Sayan
+edu_desc_hud_control_enter_vehicle,same_as_source,"Отлично, у тебя получилось открыть авто. Теперь сядь в него, нажав кнопку в правой части экрана.","Тамаша, көлікті аша алдың. Енді экранның оң жағындағы батырманы басып, көлікке отыр.",yes,Sayan
+footballTutorDesc31,same_as_source,Для участия в матчах нужно топливо.,Матчтарға қатысу үшін жанармай қажет.,yes,Sayan
+laUnknownNetworkError,same_as_source,Неизвестная ошибка,Белгісіз қате,yes,Sayan
+tune_buy_neon,length_overflow,Неон түсі туралы толық ақпарат алу үшін,Неон түсі,yes,Sayan
+detail_type_almaz,length_overflow,Гауһар режимін қосу және жалғастыру,Алмазды,yes,Sayan
+rm_title_73,same_as_source,Напугать,Қорқыту,yes,Sayan
+bankDays1,length_overflow,1 КҮН бөліміне өту үшін басыңыз,1 күн,yes,Sayan
+summerRushRaceGasAfterPrefix,length_overflow,кейін: режимін қосу және жалғастыру,кейін:,yes,Sayan
+halloweenEnergyBank,same_as_source,"КОПИЛКА
+ЭНЕРГИИ","ЭНЕРГИЯ
+ЖИНАҒЫШЫ",yes,Sayan
+newYearToStore,inconsistent_term;length_overflow,ДҮКЕНГЕ ӨТУ туралы толық ақпарат алу үшін,ДҮКЕНГЕ,yes,Sayan
+inventoryEquipped,wrong_language,Equipped,Киілген,yes,Sayan
+inventoryMailSubsectionTop,length_overflow,Үсті бөліміне өту үшін басыңыз,Үсті,yes,Sayan
+dragRacingTypeStreet,same_as_source,Уличные Гонки,Көше жарыстары,yes,Sayan
+userMenuReportsAdminConclusionReviewed,same_as_source,Заключение: адм.{adminName} (Рассмотрено),Қорытынды: адм.{adminName} (Қаралды),yes,Sayan
+predictionsBetsTitle,length_overflow,Тігістер режимін қосу және жалғастыру,Тігімдерді қабылдау,yes,Sayan
+predictionsBetsResultWin,length_overflow,Жеңіс режимін қосу және жалғастыру,Жеңіс,yes,Sayan
+predictionsBracketWinner,length_overflow,Жеңімпаз туралы толық ақпарат алу үшін,Жеңімпаз,yes,Sayan
+srv2needPremiumPass,same_as_source,Необходим Premium Pass,Premium Pass қажет,yes,Sayan
+accessories_type_other,length_overflow,Басқа режимін қосу және жалғастыру,БАСҚА,yes,Sayan
+alchemy_gun,machine_translation_suspect,Топ,Тапанша,yes,Sayan
+tp_skins,glossary_violation;machine_translation_suspect,Терілер,Скиндер,yes,Sayan
+marriage,machine_translation_suspect,Заңға бағынушылық,Неке,yes,Sayan
+notReadyToTrade,machine_translation_suspect,айырбастауға дайын,Айырбастауға дайын емес,yes,Sayan
+newYearBannerDesc,machine_translation_suspect,"Жаңа жылдың жаңа жылын тексеріп, Жаңа жылды Grand Mobile компаниясымен атап өтіңіз!
+
+Шағын ойындарға қатысыңыз, тәжірибе алыңыз, жарыстарға қатысыңыз және керемет сыйлықтар ұтып алыңыз!","Жаңа жылдық жаңа локацияға кіріп, Жаңа жылды Grand Mobile-мен бірге қарсы ал!
+
+Шағын ойындарға қатысып, тәжірибе жина, жарыстарға қатыс және керемет сыйлықтарды ал!",yes,Sayan
+inventoryEquipped@description,wrong_language,Label indicating that an item is equipped,Заттың киілгенін білдіретін белгі,yes,Sayan
+dragRacingInfo,same_as_source,Информация,Ақпарат,yes,Sayan
+marketplace_skins_tab,glossary_violation;machine_translation_suspect,Терілер,СКИНДЕР,yes,Sayan
+laNeedValidEmail,machine_translation_suspect,Төлем сомасын анықтау сәтсіз аяқталды,Дұрыс мекенжайды көрсетіңіз,yes,Sayan
+drag_race_dialog_welcome,machine_translation_suspect,"Қош келдіңіз
+Зомби Grand Mobile іс-шарасына","Қош келдіңіз
+GRAND MOBILE ЖАРЫС ИВЕНТІНЕ",yes,Sayan
+drag_race_iron_league,glossary_violation;machine_translation_suspect,Темір қайла,Темір лига,yes,Sayan
+drag_race_gold_league,glossary_violation;machine_translation_suspect,Алтын қайла,Алтын лига,yes,Sayan
+alchemic_potions,machine_translation_suspect,Жер,Сиқырлы сусындар,yes,Sayan
+height,machine_translation_suspect,БАЙЫТ,БИІКТІК,yes,Sayan
+rm_title_10,machine_translation_suspect,Таңдамалыларды баптау,Мүлік,yes,Sayan
+diagnosis,machine_translation_suspect,Тақырып,Диагноз,yes,Sayan
+jungleTreasuresCancel,glossary_violation;machine_translation_suspect,БАСТАУ,Болдырмау,yes,Sayan
+expedition_cancel,glossary_violation;machine_translation_suspect,БАСТАУ,Болдырмау,yes,Sayan
+expeditionMapCancel,glossary_violation;machine_translation_suspect,БАСТАУ,Болдырмау,yes,Sayan
+summerRushRaceCancel,glossary_violation;machine_translation_suspect,БАСТАУ,БОЛДЫРМАУ,yes,Sayan
+alabugaSchoolAllDay,machine_translation_suspect,10.00-ден 22.00-ге дейін,тәулік бойы,yes,Sayan
+schMinigameSkillRedZone,machine_translation_suspect,Жүгірткі қызыл аймақта болғанда экранды,"Жүгірткі қызыл аймақта
+болғанда, экранды бас",yes,Sayan
+onex_bet_draw_suffix,same_as_source,НИЧЬЯ,ТЕҢ ОЙЫН,yes,Sayan
+tp_accs,same_as_source,Аксессуары,Аксессуарлар,yes,Sayan
+accessories,same_as_source,Аксессуары,Аксессуарлар,yes,Sayan
+edu_desc_hud_user_menu,glossary_violation;machine_translation_suspect,"Мәзірге экранның жоғарғы жағындағы пернені басу арқылы кіруге болады. Ол арқылы бірқатар пайдалы функциялар қолжетімді.
+
+Мысалы, планшет. Планшетте көптеген маңызды қосымшалар бар: қоңыраулар, смс, жылжымайтын мүлікті сатып алуға арналған аукциондар, терілер мен аксессуарларды сатуға болатын сауда алаңы.","Мәзірді экранның жоғарғы жағындағы батырманы басып ашуға болады. Ол арқылы бірқатар пайдалы функцияны пайдалана аласың.
+
+Мысалы, планшет. Онда көптеген маңызды қолданба бар: қоңыраулар, SMS, жылжымайтын мүлік сатып алуға арналған аукциондар және скиндер мен аксессуарларды сатуға әрі сатып алуға болатын сауда алаңы.",yes,Sayan
+selectRegionConfirmTitle,machine_translation_suspect,Тапсырманы шынымен ауыстырғыңыз келе ме?,"СІЗ ШЫНЫМЕН
+аймақты өзгерткіңіз келе ме?",yes,Sayan
+bones_select,machine_translation_suspect,Аймақты таңдаңыз,ТАҢДАУ,yes,Sayan
+bones_dealer,machine_translation_suspect,ірі зат,ДИЛЕР,yes,Sayan
+battlepass_cancel,glossary_violation;machine_translation_suspect,БАСТАУ,БОЛДЫРМАУ,yes,Sayan
+marketplace_accessories_tab,same_as_source,Аксессуары,АКСЕССУАРЛАР,yes,Sayan
+choose,machine_translation_suspect,Аймақты таңдаңыз,Таңдау,yes,Sayan
+donate_case_opening,glossary_violation;machine_translation_suspect,Іс ашылуда..,Кейс ашылуда..,yes,Sayan
+tune_detail_body_kits,machine_translation_suspect,ШОЛУ,ОБВЕСТЕР,yes,Sayan
+tune_detail_exhaust,machine_translation_suspect,ШЫҒАРЫЛДЫ,ШЫҒАРУ ЖҮЙЕСІ,yes,Sayan
+tune_buy_headlights_color,inconsistent_term;machine_translation_suspect,Бағдаршамның түсі,Фар түсі,yes,Sayan
+alchemy_woodpecker,machine_translation_suspect,Дяттел,Тоқылдақ,yes,Sayan
+cancel_1,machine_translation_suspect,Болдыру,Болдырмау,yes,Sayan
+to,machine_translation_suspect,қазір,дейін,yes,Sayan
+tablet_ad_info,machine_translation_suspect,Хабарландырудың ұзындығы 3-тен 90 таңбаға дейін,Хабарландырудың ұзындығы 1-ден 70 таңбаға дейін,yes,Sayan
+tablet_app_punch,machine_translation_suspect,ЧЕМПИОН СЛОТТАРЫ,PUNCH,yes,Sayan
+gts_need,machine_translation_suspect,Құрылғы талаптары,Жұмысқа орналасу талаптары,yes,Sayan
+fraction_vehicles_spawn,machine_translation_suspect,Ұйықтату,Спавндау,yes,Sayan
+drom_mileage,machine_translation_suspect,жүгіру,Жүрісі,yes,Sayan
+objects,machine_translation_suspect,пән,Заттар,yes,Sayan
+eduSelectSkin,glossary_violation;machine_translation_suspect,кейіпкердің терісін таңдаңыз,Кейіпкердің скинін таңдаңыз,yes,Sayan
+favorite,machine_translation_suspect,Қолжетерлік іс-әрекеттер,Таңдаулылар,yes,Sayan
+stonePickaxe,glossary_violation;machine_translation_suspect,тас қайрақ,Тас қайла,yes,Sayan
+item,machine_translation_suspect,пән,Зат,yes,Sayan
+enter,machine_translation_suspect,кіру,Ойын бойынша тілектеріңізді енгізіңіз,yes,Sayan
+expeditionBoosterPurchaseLocatorDesc,machine_translation_suspect,"Сатып алғаннан кейін картада бірден энергияның нақты орны пайда болады. Бірақ асықпаңыз — бұл жарыс! Жолда басқа ойыншылар да тауып алып кетуі мүмкін. Қаншалықты жылдам болсаңыз, энергия сізге тиеді.","Сатып алғаннан кейін картада бірден энергияның нақты орны пайда болады. Бірақ кешікпеңіз — бұл жарыс! Жолда басқа ойыншылар да тауып алып кетуі мүмкін. Неғұрлым жылдам болсаңыз, энергияның сізге тию мүмкіндігі соғұрлым жоғары.",yes,Sayan
+sberQuestAutoDesc,wrong_language,"«Автоквестті» таңдағанда, 30 күнге инкассатор көлігін аласыз. Оны навсегда қалдыру үшін квестті аяқтап, мерзімін ұзарту керек!","«Автоквестті» таңдағанда, 30 күнге инкассатор көлігін аласыз. Оны мәңгілікке қалдыру үшін квестті аяқтап, мерзімін ұзарту керек!",yes,Sayan
+halloweenWitchCity,machine_translation_suspect,СӘУЛЕЛЕР ҚАЛАСЫ,МЫСТАНДАР ҚАЛАСЫ,yes,Sayan
+alabugaSchoolOpennedDesc,machine_translation_suspect,"Саған қызықты ай дайындадық. 
+Сабақтан қалма, бітірген соң аттестат аласың.","Саған қызықты үш апта дайындадық.
+Сабақтан қалма, соңында сыйлық ала аласың.",yes,Sayan
+edu_title_hud_change_buttons,machine_translation_suspect,Батырмалардың арықтағы орналасуы,Худтағы батырмалардың орналасуы,yes,Sayan
+alchemyItemWoodpecker,machine_translation_suspect,Дяттел,Тоқылдақ,yes,Sayan
+alchemyStick,machine_translation_suspect,сөре,Таяқ,yes,Sayan
+blackListinfoProfitInfoStep3,machine_translation_suspect,Отын — келісімдер және жарыстар үшін қажет. Уақыт өте ресторацияланады.,Отын — келісімшарттар мен жарыстар үшін қажет. Уақыт өте келе қалпына келеді.,yes,Sayan
+blackListinfoProfitInfoPostStep1,machine_translation_suspect,Отын — келісімдер және жарыстар үшін қажет. Уақыт өте ресторацияланады.,Отын — келісімшарттар мен жарыстар үшін қажет. Уақыт өте келе қалпына келеді.,yes,Sayan
+dragRacingV2LeagueDown,machine_translation_suspect,Шығаруға,Төмендеу,yes,Sayan
+summerRushHUD,wrong_language,SUMMER RUSH,ЖАЗҒЫ ЕКПІН,yes,Sayan
+footballHudTitle,wrong_language,CARBALL LEAGUE,КАР-РЕГБИ,yes,Sayan
+pirate_treasury_map,orthography,Казына картасы,Қазына картасы,yes,Sayan
+mesVehicleSelectTitle,orthography,Көликті таңдау,Көлікті таңдау,yes,Sayan
+bigCatchTutorialTextTaskFirst,orthography,"Алдымен негіздерден бастайық.
+Сюжет бөлімiне өтiп,
+алғашқы тапсырманы ал.
+Мен сен үшін бастапқы
+қармақ жинағын дайындадым!","Алдымен негіздерден бастайық.
+Сюжет бөліміне өтіп,
+алғашқы тапсырманы ал.
+Мен сен үшін бастапқы
+қармақ жинағын дайындадым!",yes,Sayan
+chaosStep7Part0Text,orthography,"Мұнда сен турнирдің басқа
+қатысушылары арасындағы орныңды көресің. REP
+және PVP жеңістері неғұрлым көп болса, соғұрлым жоғары көтерілеcің.","Мұнда сен турнирдің басқа
+қатысушылары арасындағы орныңды көресің. REP
+және PVP жеңістері неғұрлым көп болса, соғұрлым жоғары көтерілесің.",yes,Sayan
+tripleJackpotRewardAvailable,orthography,Сізге сыйлық колжетімді,Сізге сыйлық қолжетімді,yes,Sayan
+laReauthorizationRequired,orthography,Кайта авторизация қажет,Қайта авторизация қажет,yes,Sayan
+allowMicrophoneAccess,orthography,МИКРОФОНҒА РҰКСАТ БЕРІҢІЗ,Микрофонға рұқсат беріңіз,yes,Sayan
+complaint_state_user_comment,orthography,Пікир алынды,Пікір алынды,yes,Sayan
+drag_1every12,orthography,12 сагат сайын 1 рет,12 сағат сайын 1 рет,yes,Sayan
+alabuga_math_check_hint,orthography,Мысалдарды 5 секундта тексеріңиз,Мысалдарды 5 секундта тексеріңіз,yes,Sayan
+onex_profile_date,orthography,Күн жане уақыт,Күн және уақыт,yes,Sayan
+tp_create_title,orthography,Сатуды кұру,Сатуды құру,yes,Sayan
+superPrize,orthography,супер сыйлык,Супер сыйлық,yes,Sayan
+summerRushRaceNotEnoughGas,orthography,"ЖАРЫСКА ҚАТЫСУҒА
+ОТЫН ЖЕТПЕЙДІ.","ЖАРЫСҚА ҚАТЫСУҒА
+ОТЫН ЖЕТПЕЙДІ.",yes,Sayan
+newYearSeasonQuests,orthography,Мезгілдик тапсырмалар,Мезгілдік тапсырмалар,yes,Sayan
+dragRacingV2BuyBSlotTitle,orthography,СЫЗБАЛАР ҮШІН ҚОСЫМША ҰЯШЫК,СЫЗБАЛАР ҮШІН ҚОСЫМША ҰЯШЫҚ,yes,Sayan
+userMenuArenaMapSelection,orthography,Карта тандау:,Карта таңдау:,yes,Sayan
+questsV2CalendarAboutTaskTitle1,orthography,"Коліктерді
+Табыңыз","Көліктерді
+табыңыз",yes,Sayan
+footballShopTicketsDesc0,orthography,Сатып алынатын билеттер санын енгизіңіз,Сатып алынатын билеттер санын енгізіңіз,yes,Sayan
+laBillingRetrying,suffix_harmony,{provider}-ға қосылу мәселесі. Қайталау…,{provider} қызметіне қосылу мүмкін емес. Қайта әрекет жасалуда…,yes,Sayan
+laBillingUnavailable,suffix_harmony,Бұл құрылғыда {provider}-ға төлемі қолжетімді емес.,Бұл құрылғыда {provider} арқылы төлеу қолжетімді емес.,yes,Sayan
+drom_choose_car,orthography,Автомобильди таңдау,Автомобильді таңдау,yes,Sayan
+arena_bet_not_selected_error,orthography,Ставканы көрсетпедіңиз!,Ставканы көрсетпедіңіз!,yes,Sayan
+newYearChapter,suffix_harmony,{competition}-ға АКТІ,АКТ {competition},yes,Sayan
+userMenuReportsFromTo,suffix_harmony,{fromUser}-дан {toUser}-ға қарсы,"Кімнен: {fromUser}, кімге: {toUser}",yes,Sayan
+predictionsBuyCoinsMaxError,suffix_harmony,{max}-нан көп сатып алуға болмайды,{max} мөлшерінен көп сатып алуға болмайды,yes,Sayan
+srv2needPassLevel,suffix_harmony,"Пропусктың
+{id}-ға деңгейі қажет","Пропусктың
+{id} деңгейі қажет",yes,Sayan
+rouletteBetText,suffix_harmony,"Сіз шынымен <g>{x}X</g> мәніне
+<g>{bet}-ға GC</g> ставка жасағыңыз келе ме?","Сіз шынымен <g>{x}X</g> мәніне
+<g>{bet} GC</g> тігін жасағыңыз келе ме?",yes,Sayan
+shopNewConfirmEnd,length_overflow;orthography,"кейді сатып алғыңыз
+келетініне сенімдісіз бе?",кейс?,yes,Sayan
+complaint_error_rules,orthography,Ойыншы бузған ережелерді енгізіңіз,Ойыншы бұзған ережелерді енгізіңіз,yes,Sayan
+tune_tuning,orthography,ТЮНГ,ТЮНИНГ,yes,Sayan
+gas_restore_2,orthography,"Жарнаманы коріп, ақысыз бензин алыңыз","Жарнаманы көріп, ақысыз бензин алыңыз",yes,Sayan
+wheelOfFortuneBuyFor,suffix_harmony,{price}-ге сатып алу,{price} сомасына сатып алу,yes,Sayan
+fraction_warns,glossary_violation,Сынақтар,Сөгістер,yes,Sayan
+summerRushRaceMaxSpeedSuffix,orthography,КМ/САғ,КМ/САҒ,yes,Sayan
+launcherAuthSavedProfileCharacters,glossary_violation;machine_translation_suspect,Таңбалар:,Кейіпкерлер:,yes,Sayan
+battlepass_balance,glossary_violation,қолма-қол ақша,БАЛАНС,yes,Sayan
+laDeleteAccountHelp1,glossary_violation,"СІЗ ШЫНЫМЕН ДЕ ЕСЕПТІ
+ӨШІРГІҢІЗ КЕЛЕ МЕ?","СІЗ ШЫНЫМЕН ДЕ АККАУНТТЫ
+ӨШІРГІҢІЗ КЕЛЕ МЕ?",yes,Sayan
+balance,glossary_violation,қолма-қол ақша,Баланс,yes,Sayan
+level_min,glossary_violation,Үр.,Дең.,yes,Sayan
+buyPickaxe,glossary_violation;machine_translation_suspect,Ресурстарды өндіру үшін әр карьерде орналасқан арнайы дүкеннен күрек сатып алу қажет.,Ресурстарды өндіру үшін әр карьерде орналасқан арнайы дүкеннен қайла сатып алу қажет.,yes,Sayan
+tablet_app_balance,glossary_violation;machine_translation_suspect,қолма-қол ақша,Баланс,yes,Sayan
+bank_piggy_bank,glossary_violation;machine_translation_suspect,Қойма,Жинақша,yes,Sayan
+fraction_take_warn,glossary_violation,Айыптауды алып тастау,Сөгісті алып тастау,yes,Sayan
+fraction_give_warn,glossary_violation,Айыптау,Сөгіс беру,yes,Sayan
+aboutCrafting,glossary_violation,Қолөнер туралы,Крафт туралы,yes,Sayan
+laGoToLauncher,glossary_violation,Бастаушыға өту,Лаунчерге өту,yes,Sayan
+rm_title_25,glossary_violation,Айыптау,Сөгіс беру,yes,Sayan
+rm_title_26,glossary_violation,Айыптауды алып тастау,Сөгісті алып тастау,yes,Sayan
+resourcesDescription,glossary_violation;inconsistent_term,"Ресурстар қолөнер, әртүрлі тапсырмаларды орындау үшін қажет және сатып алушыларға сату үшін қолжетімді","Ресурстар крафт жасауға және түрлі тапсырмаларды орындауға қажет, оларды сатып алушыларға сатуға да болады",yes,Sayan
+rubyPickaxe,glossary_violation;machine_translation_suspect,Раушан сүймен,Рубин қайла,yes,Sayan
+buyDealPickaxe,glossary_violation;inconsistent_term,КИРКІ САТЫП АЛУ,Қайла сатып алу,yes,Sayan
+pickaxeTrader,glossary_violation;inconsistent_term,шаппа сатушы,Қайла сатушы,yes,Sayan
+ct_inventory_is_full,glossary_violation;machine_translation_suspect,Инвентаризацияда орын жоқ!,Инвентарьда орын жоқ!,yes,Sayan
+blackListinfoTitle,glossary_violation;machine_translation_suspect,Black List іс-қимасына қош келдіңіз!,Black List ивентіне қош келдіңіз!,yes,Sayan
+blackListinfoHowToPlayTitle,glossary_violation;machine_translation_suspect,Іс-қимасына қалай қатысады?,Ивентке қалай қатысуға болады?,yes,Sayan
+blackListinfoProfitInfoStep1,glossary_violation;machine_translation_suspect,Токендар — іс-қимасының негізгі валютасы. Тұтындыру және жақсартуларына жұмсаңыз.,Токендер — ивенттің негізгі валютасы. Шығын материалдары мен жақсартуларға жұмсаңыз.,yes,Sayan
+blackListDailyDescription,glossary_violation;machine_translation_suspect,Іс-қимасындағы кез келген белсенділік құру үшін сыйлық алыңыз,Сыйлық алу үшін ивенттегі кез келген белсенділікті орындаңыз,yes,Sayan
+inventoryItemTemporaryUntransferable,glossary_violation;inconsistent_term,Бұл зат уақытша және оны басқа ойнаушыларға беруге болмайды,Бұл зат уақытша және оны басқа ойыншыларға беруге болмайды,yes,Sayan
+inventoryDeleteIrreversible,glossary_violation;inconsistent_term,Бұл зат түгендеуіңізден біржола жойылады.,Бұл зат инвентарыңыздан біржола жойылады.,yes,Sayan
+dragRacingV2LeaveRaceDescr,orthography,"Сіз қарсылас табу үшін энергия жұмсадыңыз,
+шынымен шығғыңыз келе ме?","Сіз қарсылас табу үшін энергия жұмсадыңыз,
+шынымен шыққыңыз келе ме?",yes,Sayan
+chaosPvpCancelText,glossary_violation;inconsistent_term,"Сіз шынымен ойнаушыларды
+іздеуді тоқтатқыңыз келе ме?","Сіз шынымен ойыншыларды
+іздеуді тоқтатқыңыз келе ме?",yes,Sayan
+yandexPlusStep4,glossary_violation,"Құттықтаймыз! Сіз Плюстесіз. Ойын ішіндегі көлік
+14 күн ішінде түгендеуіңізде пайда болады","Құттықтаймыз! Сіз Плюстесіз. Ойын ішіндегі көлік
+14 күн ішінде инвентарыңызда пайда болады",yes,Sayan
+yandexPlusStatus1Description,glossary_violation,"Яндекс Плюс промокоды белсендіріліп,
+мультижазылым сәтті қосылғаннан кейін ол 14 күн ішінде түгендеуіңізде пайда болады.","Яндекс Плюс промокоды белсендіріліп,
+мультижазылым сәтті қосылғаннан кейін ол 14 күн ішінде инвентарыңызда пайда болады.",yes,Sayan
+yandexPlusStatus2Description,glossary_violation,"«Сыйлықты алу» батырмасын басыңыз,
+сонда көлік түгендеуіңізде пайда болады","«Сыйлықты алу» батырмасын басыңыз,
+сонда көлік инвентарыңызда пайда болады",yes,Sayan
+tune_detail_back_alignment,machine_translation_suspect,АРТҚЫ ЖАРЫҚ,АРТҚЫЛАРДЫҢ ҚҰЛАУЫ,yes,Sayan
+restore,machine_translation_suspect,ОРНАТУ,Қалпына келтіру,yes,Sayan
+alchemic_top_potion_players,machine_translation_suspect,Тәттілер бойынша ТОП ойыншы,Зельелер бойынша ТОП ойыншы,yes,Sayan
+hud_play_50_hours,machine_translation_suspect,Сағат ойнатылды,50 сағат ойна,yes,Sayan
+onex_profile_won,machine_translation_suspect,Ұтылды,Ұтып алынды,yes,Sayan
+gts_end,machine_translation_suspect,Жұмыстан шығарылады,Жұмыстан шығу,yes,Sayan
+family_upgrade_info,machine_translation_suspect,Отбасыңыздың сипаттамаларын жіберу,Отбасыңыздың сипаттамаларын жақсарту,yes,Sayan
+rm_title_19,machine_translation_suspect,Жанкүйерді шақыру,Бірге тұрушыны шақыру,yes,Sayan
+bankInputHintMobile,machine_translation_suspect,Қайтару үшін соманы енгізіңіз,Толықтыру сомасын енгізіңіз,yes,Sayan
+halloweenStoreUpdate,orthography,Тауар тізімін жаңартуды қалайдысыз ба?,"ТАУАР ТІЗІМІН ШЫНЫМЕН
+ЖАҢАРТҚЫҢЫЗ КЕЛЕ МЕ?",yes,Sayan
+killer,machine_translation_suspect,қолтабан,өлтіруші,yes,Sayan
+blackListinfoSubTitle,orthography,"Келісімдерді орындаңыз, рейтингіңізді көтеріңіз, токендарын табыңыз
+жәнесе ерекше сыйлықтарды ашыңыз.","Келісімшарттарды орындаңыз, дәрежеңізді көтеріңіз, токен жинаңыз
+және бірегей сыйлықтарды ашыңыз.",yes,Sayan
+blackListinfoHowToPlayStep3,machine_translation_suspect,"Машинаны ұрлап, жеткізіңіз — есеп аймалдарын сақтаңыз, машинаны жақсы күйде ұстаңыз.","Машинаны ұрлап, жеткізіңіз — таймер біткенше үлгеріңіз, машинаны жақсы күйде сақтаңыз.",yes,Sayan
+blackListinfoHowToPlayStep4,machine_translation_suspect,"Сыйлық алыңыз — Токендар, Беделі және машинаға ысырамалар.","Сыйлық алыңыз — Токендер, Бедел және көлікке жеңілдіктер.",yes,Sayan
+blackListinfoHowToPlayPostStep3,machine_translation_suspect,"Машинаны ұрлап, жеткізіңіз — есеп аймалдарын сақтаңыз, машинаны жақсы күйде ұстаңыз.","Машинаны ұрлап, жеткізіңіз — таймер біткенше үлгеріңіз, машинаны жақсы күйде сақтаңыз.",yes,Sayan
+blackListinfoRewardsList,machine_translation_suspect,"• Эксклюзивті автомобильдер
+• Дүкендегі ысырамалар
+• Ерекше аймарлар
+• Тематикалық аксессуарлар","• Эксклюзивті көліктер
+• Дүкендердегі жеңілдіктер
+• Бірегей скиндер
+• Тақырыптық аксессуарлар",yes,Sayan
+chaosStep1Part4HealthLabel,inconsistent_term,машина денсаулығы,Көлік денсаулығы,yes,Sayan
+roulette_buy_spin,machine_translation_suspect,Шиыршық сатып алу,Айналдыруды сатып алу,yes,Sayan
+before,machine_translation_suspect,қазір,дейін,yes,Sayan
+donate_vehicles_test_drive,machine_translation_suspect,автосатып алу,тест-драйв,yes,Sayan
+tune_detail_transmission,machine_translation_suspect,ТАРАТУ,ТРАНСМИССИЯ,yes,Sayan
+successfulCraftingMessage,machine_translation_suspect,"Крафт сәтті шыққан жағдайда, зат сізге пошта арқылы","Крафт сәтті шыққан жағдайда, зат сізге
+поштаға жіберіледі",yes,Sayan
+setting,machine_translation_suspect,"параметрлер
+ойындар","ОЙЫН
+БАПТАУЛАРЫ",yes,Sayan
+dailyRewards,machine_translation_suspect,Жүлделерді алу,Күнделікті сыйлықтар,yes,Sayan
+transmission,machine_translation_suspect,тарату,Трансмиссия,yes,Sayan
+present,machine_translation_suspect,Тосын сыйлық,Қосымшаны бағалағаныңыз үшін жағымды бонус аласыз,yes,Sayan
+jungleTreasuresChose,machine_translation_suspect,Аймақты таңдаңыз,таңдау,yes,Sayan
+birthday_premium_title,machine_translation_suspect,"Премиум тапсырмаларға қолжеткізіп, топтық сыйлықтар алыңыз!","Премиум тапсырмаларға қол жеткізіп,
+ең үздік сыйлықтарды алыңыз!",yes,Sayan
+halloweenInfo4,machine_translation_suspect,"Әр 20 минут сайын картада алып асқабақ пайда болады. Оны алғашқы 4 ойыншы тауып алса, экспедиция картасына энергия, асқабақ, оқ-дәрі және әмияндар алады. Ең жылдамдары аирдроптан ең үлкен сый алады.","20 МИНУТ САЙЫН ОЙЫН КАРТАСЫНЫҢ КЕЗДЕЙСОҚ ЖЕРІНДЕ АЛЫП АСҚАБАҚ ПАЙДА БОЛАДЫ. ОНЫ АЛҒАШ ТАПҚАН 4 ОЙЫНШЫ ЭКСПЕДИЦИЯ КАРТАСЫНА ЭНЕРГИЯ, АСҚАБАҚ, ОҚ-ДӘРІ ЖӘНЕ ҚҰЛЫП АШҚЫШТАР АЛАДЫ. ЕҢ ЖЫЛДАМ ҚАТЫСУШЫЛАР АИРДРОПТАН ЕҢ ҮЛКЕН СЫЙЛЫҚ АЛАДЫ.",yes,Sayan
+summerRushIgrat,machine_translation_suspect,ОЙЫН,ОЙНАУ,yes,Sayan
+drom,machine_translation_suspect,ҮЙ,дром,yes,Sayan
+blackListinfoRewardsTitle,machine_translation_suspect,Іс-қимасының ең үздік тартутарын алыңыз,Ивенттің ең үздік сыйлықтарын алыңыз,yes,Sayan
+blackListUpgradesTabMechanic,machine_translation_suspect,Өнер Механигі,Дала механигі,yes,Sayan
+blackListModifierTitle,machine_translation_suspect,МҮНДЕТТЕУШІ ШАРТТАР,МОДИФИКАТОР ШАРТТАРЫ,yes,Sayan
+questsV2CalendarAboutTaskDesc1,machine_translation_suspect,Картада әр сағат сайын бірнеше көлік пайда,"Картада әр сағат сайын
+бірнеше көлік пайда болады",yes,Sayan
+rareItems,length_overflow,"Сирек кездесетін
+заттар",Сирек заттар,yes,Sayan
+laAuthorizationErrorViaApple,machine_translation_suspect,Google арқылы авторландыру қатесі,Apple арқылы авторландыру қатесі,yes,Sayan
+laAppleSuccessfullyLinked,machine_translation_suspect,Google сәтті байланысқан,Apple-ға сәтті байланысқан,yes,Sayan
+laAppleLinkingError,machine_translation_suspect,Google байланыстыру қатесі,Apple-ға байланыстыру қатесі,yes,Sayan
+vk,machine_translation_suspect,Контактілер,Вконтакте,yes,Sayan
+job_end_game_error_desc,machine_translation_suspect,Сіз дұрыс конденсаторды таңдамадыңыз. Тағы бір рет көріңіз,Сіз қоюлатылған сүтті дұрыс таңдамадыңыз. Тағы бір рет көріңіз,yes,Sayan
+donate_plates_title,machine_translation_suspect,ТЕГІН НӨМІРЛЕР,БЕДЕЛДІ НӨМІРЛЕР,yes,Sayan
+tune_detail_horn,same_as_source,КЛАКСОНЫ,КЛАКСОНДАР,yes,Sayan
+tune_details_missing,machine_translation_suspect,ДЕРЕКТЕР ЖОҚ,БӨЛШЕКТЕР ЖОҚ,yes,Sayan
+ultimate_cases_title,machine_translation_suspect,Ультиматив,Ультимативті кейстер,yes,Sayan
+for_word,machine_translation_suspect,артында,үшін,yes,Sayan
+bank_org_1,machine_translation_suspect,"баланс
+фракциялар","фракция
+балансы",yes,Sayan
+cancelLogin,machine_translation_suspect,КІРУДІ БАС ТАРТУ,КІРУДЕН БАС ТАРТУ,yes,Sayan
+fraction_vehicles_desc,machine_translation_suspect,Ұйымның автокүші,"Ұйым көліктерін 
+спавндау",yes,Sayan
+pearl,machine_translation_suspect,МАРЖАН,Інжу,yes,Sayan
+rm_title_16,machine_translation_suspect,Қолыңызды қысыңыз,Қол алысу,yes,Sayan
+estateTrade,machine_translation_suspect,мүлікті бөлісу,Мүлік айырбастау,yes,Sayan
+expeditionAboutHowToTitle,inconsistent_term;machine_translation_suspect,ҚАЛАЙ ЖҮЛДЕ АЛУҒА,ҚАЛАЙ ЖҮЛДЕ АЛУҒА БОЛАДЫ,yes,Sayan
+expedition_spend,machine_translation_suspect,Энергияны экспедиция картасын зерттеуге,"Энергияны
+экспедиция картасын
+зерттеуге жұмса",yes,Sayan
+settingsLocomotion,machine_translation_suspect,ЖАЯУ АДАМДАРДЫ БАСҚАРУ,Жаяу басқару,yes,Sayan
+mainQuestsMapPartLeft,machine_translation_suspect,Болдыру,Белгілеу,yes,Sayan
+blackListinfoIncreaseRankDescription,machine_translation_suspect,"Келісімдерді орындаңыз және жарыстарға қатысыңыз беділі табу үшін. Жаңа рейтинг — жаңа келісімдер, премиум сыйлықтар және косметика ашса болады","Бедел жинау үшін келісімшарттарды орындап, жарыстарға қатысыңыз. Жаңа ранг — жаңа келісімшарттарға, премиум сыйлықтарға және косметикаға қолжетімділік",yes,Sayan
+blackListUpgradesTabThief,machine_translation_suspect,Ұрлақ,Бұзушы,yes,Sayan
+blackListUpgradesBonusMechanicDesc,machine_translation_suspect,Келісім сайын машинаның шылауын келесіге дейін қалпына келтіре аласыз,Келісімшарт сайын бір рет көліктің беріктігін мына деңгейге дейін қалпына келтіре аласыз:,yes,Sayan
+blackListUpgradesBonusWrongTracksDesc,machine_translation_suspect,келісім сайын карталағы өз белгіңіз пен персонаж жоғарысындағы белгіңіз ұстай аласыз,келісімшарт сайын картадағы белгіңізді және кейіпкер үстіндегі белгіні жасыра аласыз:,yes,Sayan
+blackListUpgradesBonusWrongTracksActiveDesc,machine_translation_suspect,Әр келісімде карталағы өз белгіңіз пен персонаж жоғарысындағы белгіңіз ұстай аласыз,Әр келісімшартта картадағы белгіңізді және персонаж үстіндегі белгіні жасыра аласыз:,yes,Sayan
+blackListDailyTitle,machine_translation_suspect,Күнделік Кіру,Күнделікті кіру,yes,Sayan
+userMenuReportsViolatorNicknameLabel,machine_translation_suspect,Қылмыскердің лақап аты:,Бұзушының лақап аты:,yes,Sayan
+drag_all_parts,length_overflow,Барлық қосалқы бөлшектер,Барлық бөлшектер,yes,Sayan
+donateV2DontMiss,length_overflow,Қолдан шығарып алмаңыз,Жіберіп алмаңыз ,yes,Sayan
+twix_card_title_2,machine_translation_suspect,"Бульмен, бульмен, бульмен","Шоколад, шоколад, шоколад",yes,Sayan
+tesla_game_error_0,machine_translation_suspect,Ұсыныстар саны аяқталды. Қайталап көріңіз,Әрекеттер саны таусылды. Қайталап көріңіз,yes,Sayan
+police_set_on_vehicle,machine_translation_suspect,автоорнату,көлікке орнату,yes,Sayan
+tuning_balance,machine_translation_suspect,сіздің шотыңыз бар,шотыңызда,yes,Sayan
+drag_race_dialog_desc,machine_translation_suspect,"Өзіңізді нағыз жүгіруші ретінде сезініңіз, көлігіңізді жаңартыңыз және күнделікті Drag Racing жарыстарына қатысыңыз!","Өзіңізді нағыз жарысшы ретінде сезініңіз, көлігіңізді жақсартыңыз және күнделікті Drag Racing жарыстарына қатысыңыз!",yes,Sayan
+drag_race_season_pass_rating_desc,machine_translation_suspect,"рейтингтік жарыстарда жеңіп, тәжірибе badges","рейтингтік жарыстарда жеңіп, badges алыңыз",yes,Sayan
+entrance_roof,machine_translation_suspect,жебені ату,кездесу белгілеу,yes,Sayan
+gts_first_info,machine_translation_suspect,"Сіз қоқыс жәшіктерін қоқыс жәшігіне қолмен түсіріп, ақы алуыңыз керек.","Сіз қоқыс жәшіктерін қоқыс таситын көлікке қолмен түсіріп, ақы аласыз.",yes,Sayan
+fam_treasury_sum,machine_translation_suspect,Қайтару/алу сомасы,Салу/алу сомасы,yes,Sayan
+arena_sort_duels,inconsistent_term,ДУЭЛЬ,ДУЭЛЬДЕР,yes,Sayan
+arena_zombie_title,machine_translation_suspect,"ЖЕР АСТЫ
+ТІРІ ҚАЛҒАНДАРДЫҢ","ТІРІ ҚАЛҒАНДАРДЫҢ
+ЗЫНДАНЫ",yes,Sayan
+craftingChance,machine_translation_suspect,"шанс
+крафт","Крафт
+шансы",yes,Sayan
+expeditionTasksNextPageAfter,machine_translation_suspect,келесі бет арқылы қолжетімді болады,келесі бет мына уақыттан кейін қолжетімді болады:,yes,Sayan
+bankConfirmTransferTo,machine_translation_suspect,ойыншы,ойыншыға,yes,Sayan
+lnyEducationTasksDailyTitle,inconsistent_term,Күнделікті тапсырмалар,Күнделікті,yes,Sayan
+blackListinfoTitlePost,machine_translation_suspect,Black List қош келдіңіз!,Black List-ке қош келдіңіз!,yes,Sayan
+blackListinfoHowToPlayStep6,machine_translation_suspect,"Жарысында беделі табыңыз — жарыстарға қатысыңыз, ұпайлар табыңыз.","Жарыстарда бедел жинаңыз — жарыстарға қатысып, ұпай табыңыз.",yes,Sayan
+bigCatchAllRewards,inconsistent_term,Барлық марапаттар,Барлық сыйлықтар,yes,Sayan
+inventoryMailDelete,inconsistent_term,Жою,Өшіру,yes,Sayan
+caseSales,machine_translation_suspect,Кейс сатылымдары,Кейстерге жеңілдіктер,yes,Sayan
+laForceCheckFilesHelp,machine_translation_suspect,Файлдарды қайта тексеру ойынына кіріңіз!,Файлдарды қайта тексеру үшін ойынға кіріңіз!,yes,Sayan
+mediumDescription,machine_translation_suspect,"Стандартты баптаулар графика, барлық телефондар үшін ең жақсы шешім.","Стандартты графика баптаулары, барлық телефондар үшін ең жақсы шешім.",yes,Sayan
+twix_making_cookie_game_game_desc,machine_translation_suspect,"Сіз бұрау үшін етті дайындап қойдыңыз. Сізге тек еттің әр түрін ет турағышқа салып, оны айналдыру ғана қалады.",Сіз ұнды ас үй комбайнының ыдысына електен өткізіп қойдыңыз. Енді оған қант пен салқындатылған сары майды қосып араластыру ғана қалды.,yes,Sayan
+twix_card_title_0,machine_translation_suspect,Турама дайындау,Twix таяқшасын дайындау,yes,Sayan
+twix_card_desc_0,machine_translation_suspect,"Сіз бұрау үшін етті дайындап қойдыңыз. Сізге тек еттің әр түрін ет турағышқа салып, оны айналдыру ғана қалды.
+
+Сізді қызметта күтеміз!","Сіз ұнды кухня комбайнының ыдысына електен өткізіп қойдыңыз. Енді оған қант пен салқындатылған сары майды араластыру ғана қалды.
+
+Сізді жұмыста күтеміз!",yes,Sayan
+twix_card_info_0,machine_translation_suspect,Ыстық зат фабрикасының 1 деңгейінен қолжетімді,Twix фабрикасының 1 деңгейінен қолжетімді,yes,Sayan
+twix_card_title_1,machine_translation_suspect,Бульмен жасау,Қайнатылған қоюлатылған сүтті жағу,yes,Sayan
+twix_card_desc_1,machine_translation_suspect,"Сіз тураманы алдыңыз, енді оны тұздау керек. Тұз салынған ыдысты таңдап, тураманы қамырмен жабыстырыңыз.","Сіз қамыр қабатын алдыңыз, енді оған тағы бір қабат – қайнатылған қоюлатылған сүт жағу керек. Ең ашық, карамель реңкті түрін таңдаңыз.",yes,Sayan
+twix_card_desc_2,machine_translation_suspect,"Дайын бульмендерді қаптамаға жинап, мөрлеу ғана қалды.","Шоколадты ерітсеңіз болды, Twix таяқшасын кейін қаптау үшін мұздатуға жіберуге болады.
+Шоколад бөліктерін таза, құрғақ ыдысқа салып, плитадағы қайнап жатқан су моншасына қойыңыз.",yes,Sayan
+tesla_detail_windshield,machine_translation_suspect,Маңдайша,Алдыңғы әйнек,yes,Sayan
+accessories_type_caps,same_as_source,КЕПКИ,КЕПКІЛЕР,yes,Sayan
+tune_detail_suspension,machine_translation_suspect,ІЛГІШ,АСПА,yes,Sayan
+tune_detail_back_offset,machine_translation_suspect,АРТҚЫЛАРДЫ ҰШЫРУ,АРТҚЫЛАРДЫ ШЫҒАРУ,yes,Sayan
+tune_buy_wheel,machine_translation_suspect,Дискілер саны,Дискілер №,yes,Sayan
+tuning_detail_transmission,machine_translation_suspect,тарату,Трансмиссия,yes,Sayan
+alchemic_next_page_open,machine_translation_suspect,келесі бет арқылы қолжетімді болады,келесі бет мына уақыттан кейін қолжетімді болады:,yes,Sayan
+alchemic_kettle_will_cooldown,machine_translation_suspect,Қазаншадан кейін салқындайды,Қазан суығанша:,yes,Sayan
+alchemy_monkey,machine_translation_suspect,Мешін,Маймыл,yes,Sayan
+craftingItems,machine_translation_suspect,Өршеленулер,Қорлаулар,yes,Sayan
+tablet_taxi_econom,machine_translation_suspect,Үнемдеу,Эконом,yes,Sayan
+arena_to_battle,machine_translation_suspect,Жекпе-жекте,ШАЙҚАСҚА,yes,Sayan
+structureAnalysis,machine_translation_suspect,"құрылымды нығайту және дамыту бізден қойылған міндеттерге қатысты қатысушылардың ұстанымдарын
+талдауды талап етеді. Ұйымдастырудың жаңа үлгісі тең
+бейнемен","Құрылымды нығайту және дамыту бізден қатысушылардың қойылған міндеттерге қатысты ұстанымдарын
+талдауды талап етеді. Сол сияқты, ұйымдастырудың жаңа
+үлгісі",yes,Sayan
+rm_title_7,machine_translation_suspect,Кісенді кию,Кісен салу,yes,Sayan
+yearstate,machine_translation_suspect,Мемлекеттегі жасы,Штаттағы жылдары,yes,Sayan
+halloweenHuntersKit,machine_translation_suspect,"АУ АЛУШЫ
+ЖИНАҒЫ","АҢШЫ
+ЖИНАҒЫ",yes,Sayan
+alchemySugarCane,machine_translation_suspect,Қамыс қанты,Қант қамысы,yes,Sayan
+blackListinfoHowToPlayStep5,machine_translation_suspect,Рейтингіңіз көтеріңіз — және күрделі және пайдалы келісімдерді ашыңыз.,Рангіңізді көтеріңіз — күрделірек әрі тиімдірек келісімшарттарды ашыңыз.,yes,Sayan
+pirate_main_prizes,orthography,Басты тартутар,Басты жүлделер,yes,Sayan
+halloweenInfo9,orthography,КӘНТ ЖИНАУ,КӘМПИТ ЖИНАУ,yes,Sayan
+alchemic_open_2_level_button,orthography,2-ши деңгейді ашу,2-ші деңгейді ашу,yes,Sayan
+alchemy_box,orthography,Қорабы,Қорап,yes,Sayan
+drom_sell_car_q,orthography,Сатпадан шынымен алып тастағыңыз келе ме?,Сатылымнан шынымен алып тастағыңыз келе ме?,yes,Sayan
+eduSkipVideoConfirmationTitle,orthography,СЕНІМДІМІСІЗ,Сенімдісіз бе,yes,Sayan
+lnyMapUnavailable,orthography,Бұл аймақ қолжетімді емес. Алдыңғы аймақты босаттыңыз.,Бұл аймақ қолжетімді емес. Алдыңғы аймақты босатыңыз.,yes,Sayan
+blackListinfoProfitInfoStep2,orthography,Беділі — сіздің рейтингіңіз көтеріп және жаңа келісімдерді ашып береді.,"Бедел — рангіңізді көтеріп, жаңа келісімшарттарды ашады.",yes,Sayan
+newYearCancel,inconsistent_term,БАС ТАРТУ,БОЛДЫРМАУ,yes,Sayan
+halloweenBossHealth,orthography,ҚҰЛПЫРЫҚ ДЕНСАУЛЫҒЫ,ҚҰБЫЖЫҚ ДЕНСАУЛЫҒЫ,yes,Sayan
+sct_sell_input_price,orthography,НӨМЕРДІ САТУ ҚҰНЫН ЕНГІЗУ,НӨМІРДІ САТУ ҚҰНЫН ЕНГІЗІҢІЗ,yes,Sayan
+pirate_buy_map,orthography,Сіз шынымен Қазына картасының 2-деңгейін сатып алғыңыз келе,"Сіз шынымен
+Қазына картасының 2-деңгейін сатып алғыңыз келе ме?",yes,Sayan
+goldenTicketInfoP2,inconsistent_term,"Рұқсаттаманы сатып алу
+премиум марапаттарды ашады","Рұқсатнаманы сатып алу
+премиум марапаттарды ашады",yes,Sayan
+chaosStep1Part0Text,orthography,"Мұнда ережелерді тірі қалғандар жазатын қала арқылы
+сапарың басталады. Миссияларды орында, боссарды
+жең және турнирдің жаңа кезеңдерін аш.","Мұнда ережелерді тірі қалғандар жазатын қала арқылы
+сапарың басталады. Миссияларды орында, босстарды
+жең және турнирдің жаңа кезеңдерін аш.",yes,Sayan

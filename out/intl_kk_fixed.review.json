@@ -1,0 +1,2852 @@
+{
+  "bankConfirmApartment": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Сіз шынымен жылжымайтын мүлікке төлем жасағыңыз келе ме: Пәтер\nсомасы"
+  },
+  "bigCatchStoryLineSkipTimer": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Таймерді өткізіп жіберу"
+  },
+  "bigCatchTournamentsVictories": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Турнирлердегі жеңістер"
+  },
+  "invDisassemble": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "БӨЛШЕКТЕУ"
+  },
+  "inventory": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Инвентарь"
+  },
+  "inventoryMailSubsectionLeftHand": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Сол қол"
+  },
+  "laAccountEmptyHelpTopText1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Мұнда кейіпкерлеріңіздің\nстатистикасы көрсетіледі"
+  },
+  "laYouNeedToLinkThisSocialNetworkToAccount": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Бұл әлеуметтік желіні аккаунтқа байланыстыру қажет"
+  },
+  "newYearInfoDesc2": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Тапсырмалар үшін Маусымдық Пропуск тәжірибесін және Кәмпиттер алуға болады.\n\nКүнделікті тапсырмалар күн сайын жаңарады, оларды арнайы бустер арқылы да жаңартуға болады.\n\nМаусымдық Пропускты сатып алғанда арнайы тапсырмаларға қолжетімділік ашылады."
+  },
+  "piggyGetBy": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Алу бағасы:"
+  },
+  "predictionsBetsPossibleReward": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Ықтимал ұтыс"
+  },
+  "tablet_auc_all_your_bets": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "untranslated"
+    ],
+    "original": null,
+    "fixed": "Барлық тігімдеріңіз"
+  },
+  "laAuthorisationError": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "Avtorizatsiya xatosi",
+    "fixed": "Авторизация қатесі"
+  },
+  "pauseSettingsSocialMedia": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "IJTIMOIY TARMOQNI BOG‘LASH",
+    "fixed": "ӘЛЕУМЕТТІК ЖЕЛІЛЕРДІ БАЙЛАНЫСТЫРУ"
+  },
+  "settingsGameShowHud": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "HUD’ni ko‘rsatish",
+    "fixed": "HUD көрсету"
+  },
+  "donate_to_mail": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "Pochta bo‘limiga",
+    "fixed": "Поштаға"
+  },
+  "repeat": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "Takrorlash",
+    "fixed": "Тағы бір рет"
+  },
+  "arena_starting_health": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "Standart salomatlik",
+    "fixed": "Бастапқы денсаулық"
+  },
+  "bankTotalToPay": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "Jami to‘lov:",
+    "fixed": "Барлық төлем:"
+  },
+  "summerRushFreshCases": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "Yangi qutilar",
+    "fixed": "Жаңа кейстер"
+  },
+  "birthday_info_more_play": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Чем больше играешь - тем выше Ты и Твоя Команда!",
+    "fixed": "Неғұрлым көп ойнасаң, соғұрлым сен де, командаң да жоғары көтерілесіңдер!"
+  },
+  "birthday_main_updates_in": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "Жаңарады: time",
+    "fixed": "Жаңаруына қалды: {time}"
+  },
+  "arena_platform_colorname": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "{platformColo} платформаға тұрыңыз",
+    "fixed": "{platformColor} платформаға тұрыңыз"
+  },
+  "launcherSettingsDeleteAccountConfirm": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "Para excluir o perfil do jogo,\no aplicativo será fechado.\nPor favor, abra-o novamente.",
+    "fixed": "Ойын профилін жою үшін\nқосымша жабылады.\nӨтінеміз, оны қайта іске қосыңыз."
+  },
+  "edu_tablet_purchase_item_lottery_ticket": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "Lotereya chiptasi",
+    "fixed": "Лотерея билеті"
+  },
+  "dragRacingV2BuyDesc1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "blueprintTitle үшін сызбалар",
+    "fixed": "{blueprintTitle} үшін сызбалар"
+  },
+  "predictionsBuyCoinsMinError": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "min-нан аз сатып алуға болмайды",
+    "fixed": "{min} мөлшерінен аз сатып алуға болмайды"
+  },
+  "rustoreOfferBuyFor": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "price бағасына сатып алу",
+    "fixed": "{price} бағасына сатып алу"
+  },
+  "chaosUpgradeText": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "Сіз өз көлігіңіздің upgradeTitle\nкөрсеткішін {upgradeLevel} деңгейге дейін жақсарттыңыз!",
+    "fixed": "Көлігіңіздің {upgradeTitle} жақсартуын {upgradeLevel} деңгейіне көтердіңіз!"
+  },
+  "chaosStep3Part1Text": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Задания подскажут, чем заняться дальше,\nесли ты не знаешь, куда ехать. Просто выбери\nцель – и город сам найдёт способ проверить тебя.",
+    "fixed": "\nҚайда барарыңды білмесең, тапсырмалар\nәрі қарай не істеу керегін көрсетеді. Мақсатты\nтаңда — қала сені сынаудың жолын өзі табады."
+  },
+  "srv2endsIn": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "EVENT TUGASHIGA QOLDI:",
+    "fixed": "ІС-ШАРАНЫҢ АЯҚТАЛУЫНА ҚАЛДЫ:"
+  },
+  "schAssignmentTrainerIntro": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "Бәрінен үздік болғың келе ме? Онда үздік бол!\n<g>Әр сағат сайын</g> бүкіл картада шамамен <g>books кітап</g> пайда болады!\nОларды жинау үшін бәрінен жылдам әрі епті болуың керек!\nКітаптарды жинап, маған әкелсең – сыйлық аласың.",
+    "fixed": "Бәрінен үздік болғың келе ме? Ендеше, бол!\n<g>Әр сағат сайын</g> бүкіл картада шамамен <g>{books} кітап</g> пайда болады!\nОларды жинау үшін бәрінен жылдам әрі епті болуың керек!\nКітаптарды жинап, маған әкел — сыйлық аласың."
+  },
+  "schDuelsPointsAmount": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "ҰПАЙ",
+    "fixed": "{points} ҰПАЙ"
+  },
+  "schGiftPassConfirmQuestion": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "Сіз шынымен name сыйлағыңыз келе ме",
+    "fixed": "Сіз шынымен {name} сыйлағыңыз келе ме"
+  },
+  "schPassRewardLevelRequired": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "Пасстың {leve}\nдеңгейі қажет",
+    "fixed": "Проспуктың {level}\nдеңгейі қажет"
+  },
+  "schStoreCasePossiblePrizes": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "Мүмкін сыйлықтар: title",
+    "fixed": "Мүмкін сыйлықтар: {title}"
+  },
+  "schTutorialT2S1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "placeholder_mismatch"
+    ],
+    "original": "Жолақты бақыла: playerTeamText.\nҰпайлар фракцияның барлық мүшелерінің әрекеттерінен жиналады.\nДуэльдердің ережелері мен қатысу шарттарын білу үшін\n<g>Шайқас ақпараты</g> түймесін бас!",
+    "fixed": "Шкаланы бақыла: {playerTeamText}.\nҰпайлар фракцияның барлық мүшелерінің әрекеттерінен жиналады.\nДуэльдердің ережелері мен қатысу шарттарын білу үшін\n<g>Шайқас ақпараты</g> батырмасын бас!"
+  },
+  "schTutorialT8S0": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Нужны законные „чит-коды“ для быстрой победы?\nРаздел <g>Бустеры</g> — твой личный допинг-контроль! Здесь продаются\nспециальные улучшения, которые дадут тебе преимущество над\nсоперниками.",
+    "fixed": "Жылдам жеңіс үшін заңды „чит-кодтар“ керек пе?\n<g>Бустерлер</g> бөлімі — сенің жеке күшейткішің! Мұнда\nқарсыластарыңнан басым түсуге көмектесетін арнайы\nжақсартулар сатылады."
+  },
+  "jungleTreasuresRecieveImmediately": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "и получить предмет сразу",
+    "fixed": "және затты бірден алу"
+  },
+  "bankConfirmHouse": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Вы действительно хотите оплатить недвижимость: Дом\nна сумму",
+    "fixed": "Сіз шынымен жылжымайтын мүлікке төлем жасағыңыз келе ме: Үй\nсомасы"
+  },
+  "summerRushAfkKickCountdown": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "До исключения за АФК",
+    "fixed": "АФК үшін шығарылуға дейін"
+  },
+  "edu_desc_hud_control_enter_vehicle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Отлично, у тебя получилось открыть авто. Теперь сядь в него, нажав кнопку в правой части экрана.",
+    "fixed": "Тамаша, көлікті аша алдың. Енді экранның оң жағындағы батырманы басып, көлікке отыр."
+  },
+  "footballTutorDesc31": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Для участия в матчах нужно топливо.",
+    "fixed": "Матчтарға қатысу үшін жанармай қажет."
+  },
+  "laUnknownNetworkError": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Неизвестная ошибка",
+    "fixed": "Белгісіз қате"
+  },
+  "tune_buy_neon": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "Неон түсі туралы толық ақпарат алу үшін",
+    "fixed": "Неон түсі"
+  },
+  "detail_type_almaz": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "Гауһар режимін қосу және жалғастыру",
+    "fixed": "Алмазды"
+  },
+  "rm_title_73": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Напугать",
+    "fixed": "Қорқыту"
+  },
+  "bankDays1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "1 КҮН бөліміне өту үшін басыңыз",
+    "fixed": "1 күн"
+  },
+  "summerRushRaceGasAfterPrefix": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "кейін: режимін қосу және жалғастыру",
+    "fixed": "кейін:"
+  },
+  "halloweenEnergyBank": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "КОПИЛКА\nЭНЕРГИИ",
+    "fixed": "ЭНЕРГИЯ\nЖИНАҒЫШЫ"
+  },
+  "newYearToStore": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "inconsistent_term",
+      "length_overflow"
+    ],
+    "original": "ДҮКЕНГЕ ӨТУ туралы толық ақпарат алу үшін",
+    "fixed": "ДҮКЕНГЕ"
+  },
+  "inventoryEquipped": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "Equipped",
+    "fixed": "Киілген"
+  },
+  "inventoryMailSubsectionTop": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "Үсті бөліміне өту үшін басыңыз",
+    "fixed": "Үсті"
+  },
+  "dragRacingTypeStreet": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Уличные Гонки",
+    "fixed": "Көше жарыстары"
+  },
+  "userMenuReportsAdminConclusionReviewed": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Заключение: адм.{adminName} (Рассмотрено)",
+    "fixed": "Қорытынды: адм.{adminName} (Қаралды)"
+  },
+  "predictionsBetsTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "Тігістер режимін қосу және жалғастыру",
+    "fixed": "Тігімдерді қабылдау"
+  },
+  "predictionsBetsResultWin": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "Жеңіс режимін қосу және жалғастыру",
+    "fixed": "Жеңіс"
+  },
+  "predictionsBracketWinner": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "Жеңімпаз туралы толық ақпарат алу үшін",
+    "fixed": "Жеңімпаз"
+  },
+  "srv2needPremiumPass": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Необходим Premium Pass",
+    "fixed": "Premium Pass қажет"
+  },
+  "accessories_type_other": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "Басқа режимін қосу және жалғастыру",
+    "fixed": "БАСҚА"
+  },
+  "alchemy_gun": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Топ",
+    "fixed": "Тапанша"
+  },
+  "tp_skins": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Терілер",
+    "fixed": "Скиндер"
+  },
+  "marriage": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Заңға бағынушылық",
+    "fixed": "Неке"
+  },
+  "notReadyToTrade": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "айырбастауға дайын",
+    "fixed": "Айырбастауға дайын емес"
+  },
+  "newYearBannerDesc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Жаңа жылдың жаңа жылын тексеріп, Жаңа жылды Grand Mobile компаниясымен атап өтіңіз!\n\nШағын ойындарға қатысыңыз, тәжірибе алыңыз, жарыстарға қатысыңыз және керемет сыйлықтар ұтып алыңыз!",
+    "fixed": "Жаңа жылдық жаңа локацияға кіріп, Жаңа жылды Grand Mobile-мен бірге қарсы ал!\n\nШағын ойындарға қатысып, тәжірибе жина, жарыстарға қатыс және керемет сыйлықтарды ал!"
+  },
+  "inventoryEquipped@description": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "Label indicating that an item is equipped",
+    "fixed": "Заттың киілгенін білдіретін белгі"
+  },
+  "dragRacingInfo": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Информация",
+    "fixed": "Ақпарат"
+  },
+  "marketplace_skins_tab": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Терілер",
+    "fixed": "СКИНДЕР"
+  },
+  "laNeedValidEmail": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Төлем сомасын анықтау сәтсіз аяқталды",
+    "fixed": "Дұрыс мекенжайды көрсетіңіз"
+  },
+  "drag_race_dialog_welcome": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Қош келдіңіз\nЗомби Grand Mobile іс-шарасына",
+    "fixed": "Қош келдіңіз\nGRAND MOBILE ЖАРЫС ИВЕНТІНЕ"
+  },
+  "drag_race_iron_league": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Темір қайла",
+    "fixed": "Темір лига"
+  },
+  "drag_race_gold_league": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Алтын қайла",
+    "fixed": "Алтын лига"
+  },
+  "alchemic_potions": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Жер",
+    "fixed": "Сиқырлы сусындар"
+  },
+  "height": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "БАЙЫТ",
+    "fixed": "БИІКТІК"
+  },
+  "rm_title_10": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Таңдамалыларды баптау",
+    "fixed": "Мүлік"
+  },
+  "diagnosis": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Тақырып",
+    "fixed": "Диагноз"
+  },
+  "jungleTreasuresCancel": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "БАСТАУ",
+    "fixed": "Болдырмау"
+  },
+  "expedition_cancel": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "БАСТАУ",
+    "fixed": "Болдырмау"
+  },
+  "expeditionMapCancel": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "БАСТАУ",
+    "fixed": "Болдырмау"
+  },
+  "summerRushRaceCancel": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "БАСТАУ",
+    "fixed": "БОЛДЫРМАУ"
+  },
+  "alabugaSchoolAllDay": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "10.00-ден 22.00-ге дейін",
+    "fixed": "тәулік бойы"
+  },
+  "schMinigameSkillRedZone": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Жүгірткі қызыл аймақта болғанда экранды",
+    "fixed": "Жүгірткі қызыл аймақта\nболғанда, экранды бас"
+  },
+  "onex_bet_draw_suffix": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "НИЧЬЯ",
+    "fixed": "ТЕҢ ОЙЫН"
+  },
+  "tp_accs": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Аксессуары",
+    "fixed": "Аксессуарлар"
+  },
+  "accessories": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Аксессуары",
+    "fixed": "Аксессуарлар"
+  },
+  "edu_desc_hud_user_menu": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Мәзірге экранның жоғарғы жағындағы пернені басу арқылы кіруге болады. Ол арқылы бірқатар пайдалы функциялар қолжетімді.\n\nМысалы, планшет. Планшетте көптеген маңызды қосымшалар бар: қоңыраулар, смс, жылжымайтын мүлікті сатып алуға арналған аукциондар, терілер мен аксессуарларды сатуға болатын сауда алаңы.",
+    "fixed": "Мәзірді экранның жоғарғы жағындағы батырманы басып ашуға болады. Ол арқылы бірқатар пайдалы функцияны пайдалана аласың.\n\nМысалы, планшет. Онда көптеген маңызды қолданба бар: қоңыраулар, SMS, жылжымайтын мүлік сатып алуға арналған аукциондар және скиндер мен аксессуарларды сатуға әрі сатып алуға болатын сауда алаңы."
+  },
+  "selectRegionConfirmTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Тапсырманы шынымен ауыстырғыңыз келе ме?",
+    "fixed": "СІЗ ШЫНЫМЕН\nаймақты өзгерткіңіз келе ме?"
+  },
+  "bones_select": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Аймақты таңдаңыз",
+    "fixed": "ТАҢДАУ"
+  },
+  "bones_dealer": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ірі зат",
+    "fixed": "ДИЛЕР"
+  },
+  "battlepass_cancel": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "БАСТАУ",
+    "fixed": "БОЛДЫРМАУ"
+  },
+  "marketplace_accessories_tab": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "Аксессуары",
+    "fixed": "АКСЕССУАРЛАР"
+  },
+  "choose": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Аймақты таңдаңыз",
+    "fixed": "Таңдау"
+  },
+  "donate_case_opening": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Іс ашылуда..",
+    "fixed": "Кейс ашылуда.."
+  },
+  "tune_detail_body_kits": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ШОЛУ",
+    "fixed": "ОБВЕСТЕР"
+  },
+  "tune_detail_exhaust": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ШЫҒАРЫЛДЫ",
+    "fixed": "ШЫҒАРУ ЖҮЙЕСІ"
+  },
+  "tune_buy_headlights_color": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "inconsistent_term",
+      "machine_translation_suspect"
+    ],
+    "original": "Бағдаршамның түсі",
+    "fixed": "Фар түсі"
+  },
+  "alchemy_woodpecker": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Дяттел",
+    "fixed": "Тоқылдақ"
+  },
+  "cancel_1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Болдыру",
+    "fixed": "Болдырмау"
+  },
+  "to": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "қазір",
+    "fixed": "дейін"
+  },
+  "tablet_ad_info": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Хабарландырудың ұзындығы 3-тен 90 таңбаға дейін",
+    "fixed": "Хабарландырудың ұзындығы 1-ден 70 таңбаға дейін"
+  },
+  "tablet_app_punch": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ЧЕМПИОН СЛОТТАРЫ",
+    "fixed": "PUNCH"
+  },
+  "gts_need": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Құрылғы талаптары",
+    "fixed": "Жұмысқа орналасу талаптары"
+  },
+  "fraction_vehicles_spawn": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Ұйықтату",
+    "fixed": "Спавндау"
+  },
+  "drom_mileage": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "жүгіру",
+    "fixed": "Жүрісі"
+  },
+  "objects": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "пән",
+    "fixed": "Заттар"
+  },
+  "eduSelectSkin": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "кейіпкердің терісін таңдаңыз",
+    "fixed": "Кейіпкердің скинін таңдаңыз"
+  },
+  "favorite": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Қолжетерлік іс-әрекеттер",
+    "fixed": "Таңдаулылар"
+  },
+  "stonePickaxe": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "тас қайрақ",
+    "fixed": "Тас қайла"
+  },
+  "item": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "пән",
+    "fixed": "Зат"
+  },
+  "enter": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "кіру",
+    "fixed": "Ойын бойынша тілектеріңізді енгізіңіз"
+  },
+  "expeditionBoosterPurchaseLocatorDesc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Сатып алғаннан кейін картада бірден энергияның нақты орны пайда болады. Бірақ асықпаңыз — бұл жарыс! Жолда басқа ойыншылар да тауып алып кетуі мүмкін. Қаншалықты жылдам болсаңыз, энергия сізге тиеді.",
+    "fixed": "Сатып алғаннан кейін картада бірден энергияның нақты орны пайда болады. Бірақ кешікпеңіз — бұл жарыс! Жолда басқа ойыншылар да тауып алып кетуі мүмкін. Неғұрлым жылдам болсаңыз, энергияның сізге тию мүмкіндігі соғұрлым жоғары."
+  },
+  "sberQuestAutoDesc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "«Автоквестті» таңдағанда, 30 күнге инкассатор көлігін аласыз. Оны навсегда қалдыру үшін квестті аяқтап, мерзімін ұзарту керек!",
+    "fixed": "«Автоквестті» таңдағанда, 30 күнге инкассатор көлігін аласыз. Оны мәңгілікке қалдыру үшін квестті аяқтап, мерзімін ұзарту керек!"
+  },
+  "halloweenWitchCity": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "СӘУЛЕЛЕР ҚАЛАСЫ",
+    "fixed": "МЫСТАНДАР ҚАЛАСЫ"
+  },
+  "alabugaSchoolOpennedDesc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Саған қызықты ай дайындадық. \nСабақтан қалма, бітірген соң аттестат аласың.",
+    "fixed": "Саған қызықты үш апта дайындадық.\nСабақтан қалма, соңында сыйлық ала аласың."
+  },
+  "edu_title_hud_change_buttons": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Батырмалардың арықтағы орналасуы",
+    "fixed": "Худтағы батырмалардың орналасуы"
+  },
+  "alchemyItemWoodpecker": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Дяттел",
+    "fixed": "Тоқылдақ"
+  },
+  "alchemyStick": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "сөре",
+    "fixed": "Таяқ"
+  },
+  "blackListinfoProfitInfoStep3": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Отын — келісімдер және жарыстар үшін қажет. Уақыт өте ресторацияланады.",
+    "fixed": "Отын — келісімшарттар мен жарыстар үшін қажет. Уақыт өте келе қалпына келеді."
+  },
+  "blackListinfoProfitInfoPostStep1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Отын — келісімдер және жарыстар үшін қажет. Уақыт өте ресторацияланады.",
+    "fixed": "Отын — келісімшарттар мен жарыстар үшін қажет. Уақыт өте келе қалпына келеді."
+  },
+  "dragRacingV2LeagueDown": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Шығаруға",
+    "fixed": "Төмендеу"
+  },
+  "summerRushHUD": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "SUMMER RUSH",
+    "fixed": "ЖАЗҒЫ ЕКПІН"
+  },
+  "footballHudTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "wrong_language"
+    ],
+    "original": "CARBALL LEAGUE",
+    "fixed": "КАР-РЕГБИ"
+  },
+  "pirate_treasury_map": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Казына картасы",
+    "fixed": "Қазына картасы"
+  },
+  "mesVehicleSelectTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Көликті таңдау",
+    "fixed": "Көлікті таңдау"
+  },
+  "bigCatchTutorialTextTaskFirst": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Алдымен негіздерден бастайық.\nСюжет бөлімiне өтiп,\nалғашқы тапсырманы ал.\nМен сен үшін бастапқы\nқармақ жинағын дайындадым!",
+    "fixed": "Алдымен негіздерден бастайық.\nСюжет бөліміне өтіп,\nалғашқы тапсырманы ал.\nМен сен үшін бастапқы\nқармақ жинағын дайындадым!"
+  },
+  "chaosStep7Part0Text": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Мұнда сен турнирдің басқа\nқатысушылары арасындағы орныңды көресің. REP\nжәне PVP жеңістері неғұрлым көп болса, соғұрлым жоғары көтерілеcің.",
+    "fixed": "Мұнда сен турнирдің басқа\nқатысушылары арасындағы орныңды көресің. REP\nжәне PVP жеңістері неғұрлым көп болса, соғұрлым жоғары көтерілесің."
+  },
+  "tripleJackpotRewardAvailable": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Сізге сыйлық колжетімді",
+    "fixed": "Сізге сыйлық қолжетімді"
+  },
+  "laReauthorizationRequired": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Кайта авторизация қажет",
+    "fixed": "Қайта авторизация қажет"
+  },
+  "allowMicrophoneAccess": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "МИКРОФОНҒА РҰКСАТ БЕРІҢІЗ",
+    "fixed": "Микрофонға рұқсат беріңіз"
+  },
+  "complaint_state_user_comment": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Пікир алынды",
+    "fixed": "Пікір алынды"
+  },
+  "drag_1every12": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "12 сагат сайын 1 рет",
+    "fixed": "12 сағат сайын 1 рет"
+  },
+  "alabuga_math_check_hint": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Мысалдарды 5 секундта тексеріңиз",
+    "fixed": "Мысалдарды 5 секундта тексеріңіз"
+  },
+  "onex_profile_date": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Күн жане уақыт",
+    "fixed": "Күн және уақыт"
+  },
+  "tp_create_title": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Сатуды кұру",
+    "fixed": "Сатуды құру"
+  },
+  "superPrize": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "супер сыйлык",
+    "fixed": "Супер сыйлық"
+  },
+  "summerRushRaceNotEnoughGas": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "ЖАРЫСКА ҚАТЫСУҒА\nОТЫН ЖЕТПЕЙДІ.",
+    "fixed": "ЖАРЫСҚА ҚАТЫСУҒА\nОТЫН ЖЕТПЕЙДІ."
+  },
+  "newYearSeasonQuests": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Мезгілдик тапсырмалар",
+    "fixed": "Мезгілдік тапсырмалар"
+  },
+  "dragRacingV2BuyBSlotTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "СЫЗБАЛАР ҮШІН ҚОСЫМША ҰЯШЫК",
+    "fixed": "СЫЗБАЛАР ҮШІН ҚОСЫМША ҰЯШЫҚ"
+  },
+  "userMenuArenaMapSelection": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Карта тандау:",
+    "fixed": "Карта таңдау:"
+  },
+  "questsV2CalendarAboutTaskTitle1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Коліктерді\nТабыңыз",
+    "fixed": "Көліктерді\nтабыңыз"
+  },
+  "footballShopTicketsDesc0": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Сатып алынатын билеттер санын енгизіңіз",
+    "fixed": "Сатып алынатын билеттер санын енгізіңіз"
+  },
+  "laBillingRetrying": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "suffix_harmony"
+    ],
+    "original": "{provider}-ға қосылу мәселесі. Қайталау…",
+    "fixed": "{provider} қызметіне қосылу мүмкін емес. Қайта әрекет жасалуда…"
+  },
+  "laBillingUnavailable": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "suffix_harmony"
+    ],
+    "original": "Бұл құрылғыда {provider}-ға төлемі қолжетімді емес.",
+    "fixed": "Бұл құрылғыда {provider} арқылы төлеу қолжетімді емес."
+  },
+  "drom_choose_car": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Автомобильди таңдау",
+    "fixed": "Автомобильді таңдау"
+  },
+  "arena_bet_not_selected_error": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Ставканы көрсетпедіңиз!",
+    "fixed": "Ставканы көрсетпедіңіз!"
+  },
+  "newYearChapter": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "suffix_harmony"
+    ],
+    "original": "{competition}-ға АКТІ",
+    "fixed": "АКТ {competition}"
+  },
+  "userMenuReportsFromTo": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "suffix_harmony"
+    ],
+    "original": "{fromUser}-дан {toUser}-ға қарсы",
+    "fixed": "Кімнен: {fromUser}, кімге: {toUser}"
+  },
+  "predictionsBuyCoinsMaxError": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "suffix_harmony"
+    ],
+    "original": "{max}-нан көп сатып алуға болмайды",
+    "fixed": "{max} мөлшерінен көп сатып алуға болмайды"
+  },
+  "srv2needPassLevel": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "suffix_harmony"
+    ],
+    "original": "Пропусктың\n{id}-ға деңгейі қажет",
+    "fixed": "Пропусктың\n{id} деңгейі қажет"
+  },
+  "rouletteBetText": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "suffix_harmony"
+    ],
+    "original": "Сіз шынымен <g>{x}X</g> мәніне\n<g>{bet}-ға GC</g> ставка жасағыңыз келе ме?",
+    "fixed": "Сіз шынымен <g>{x}X</g> мәніне\n<g>{bet} GC</g> тігін жасағыңыз келе ме?"
+  },
+  "shopNewConfirmEnd": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow",
+      "orthography"
+    ],
+    "original": "кейді сатып алғыңыз\nкелетініне сенімдісіз бе?",
+    "fixed": "кейс?"
+  },
+  "complaint_error_rules": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Ойыншы бузған ережелерді енгізіңіз",
+    "fixed": "Ойыншы бұзған ережелерді енгізіңіз"
+  },
+  "tune_tuning": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "ТЮНГ",
+    "fixed": "ТЮНИНГ"
+  },
+  "gas_restore_2": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Жарнаманы коріп, ақысыз бензин алыңыз",
+    "fixed": "Жарнаманы көріп, ақысыз бензин алыңыз"
+  },
+  "wheelOfFortuneBuyFor": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "suffix_harmony"
+    ],
+    "original": "{price}-ге сатып алу",
+    "fixed": "{price} сомасына сатып алу"
+  },
+  "fraction_warns": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "Сынақтар",
+    "fixed": "Сөгістер"
+  },
+  "summerRushRaceMaxSpeedSuffix": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "КМ/САғ",
+    "fixed": "КМ/САҒ"
+  },
+  "launcherAuthSavedProfileCharacters": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Таңбалар:",
+    "fixed": "Кейіпкерлер:"
+  },
+  "battlepass_balance": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "қолма-қол ақша",
+    "fixed": "БАЛАНС"
+  },
+  "laDeleteAccountHelp1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "СІЗ ШЫНЫМЕН ДЕ ЕСЕПТІ\nӨШІРГІҢІЗ КЕЛЕ МЕ?",
+    "fixed": "СІЗ ШЫНЫМЕН ДЕ АККАУНТТЫ\nӨШІРГІҢІЗ КЕЛЕ МЕ?"
+  },
+  "balance": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "қолма-қол ақша",
+    "fixed": "Баланс"
+  },
+  "level_min": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "Үр.",
+    "fixed": "Дең."
+  },
+  "buyPickaxe": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Ресурстарды өндіру үшін әр карьерде орналасқан арнайы дүкеннен күрек сатып алу қажет.",
+    "fixed": "Ресурстарды өндіру үшін әр карьерде орналасқан арнайы дүкеннен қайла сатып алу қажет."
+  },
+  "tablet_app_balance": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "қолма-қол ақша",
+    "fixed": "Баланс"
+  },
+  "bank_piggy_bank": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Қойма",
+    "fixed": "Жинақша"
+  },
+  "fraction_take_warn": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "Айыптауды алып тастау",
+    "fixed": "Сөгісті алып тастау"
+  },
+  "fraction_give_warn": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "Айыптау",
+    "fixed": "Сөгіс беру"
+  },
+  "aboutCrafting": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "Қолөнер туралы",
+    "fixed": "Крафт туралы"
+  },
+  "laGoToLauncher": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "Бастаушыға өту",
+    "fixed": "Лаунчерге өту"
+  },
+  "rm_title_25": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "Айыптау",
+    "fixed": "Сөгіс беру"
+  },
+  "rm_title_26": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "Айыптауды алып тастау",
+    "fixed": "Сөгісті алып тастау"
+  },
+  "resourcesDescription": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "inconsistent_term"
+    ],
+    "original": "Ресурстар қолөнер, әртүрлі тапсырмаларды орындау үшін қажет және сатып алушыларға сату үшін қолжетімді",
+    "fixed": "Ресурстар крафт жасауға және түрлі тапсырмаларды орындауға қажет, оларды сатып алушыларға сатуға да болады"
+  },
+  "rubyPickaxe": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Раушан сүймен",
+    "fixed": "Рубин қайла"
+  },
+  "buyDealPickaxe": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "inconsistent_term"
+    ],
+    "original": "КИРКІ САТЫП АЛУ",
+    "fixed": "Қайла сатып алу"
+  },
+  "pickaxeTrader": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "inconsistent_term"
+    ],
+    "original": "шаппа сатушы",
+    "fixed": "Қайла сатушы"
+  },
+  "ct_inventory_is_full": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Инвентаризацияда орын жоқ!",
+    "fixed": "Инвентарьда орын жоқ!"
+  },
+  "blackListinfoTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Black List іс-қимасына қош келдіңіз!",
+    "fixed": "Black List ивентіне қош келдіңіз!"
+  },
+  "blackListinfoHowToPlayTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Іс-қимасына қалай қатысады?",
+    "fixed": "Ивентке қалай қатысуға болады?"
+  },
+  "blackListinfoProfitInfoStep1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Токендар — іс-қимасының негізгі валютасы. Тұтындыру және жақсартуларына жұмсаңыз.",
+    "fixed": "Токендер — ивенттің негізгі валютасы. Шығын материалдары мен жақсартуларға жұмсаңыз."
+  },
+  "blackListDailyDescription": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "machine_translation_suspect"
+    ],
+    "original": "Іс-қимасындағы кез келген белсенділік құру үшін сыйлық алыңыз",
+    "fixed": "Сыйлық алу үшін ивенттегі кез келген белсенділікті орындаңыз"
+  },
+  "inventoryItemTemporaryUntransferable": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "inconsistent_term"
+    ],
+    "original": "Бұл зат уақытша және оны басқа ойнаушыларға беруге болмайды",
+    "fixed": "Бұл зат уақытша және оны басқа ойыншыларға беруге болмайды"
+  },
+  "inventoryDeleteIrreversible": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "inconsistent_term"
+    ],
+    "original": "Бұл зат түгендеуіңізден біржола жойылады.",
+    "fixed": "Бұл зат инвентарыңыздан біржола жойылады."
+  },
+  "dragRacingV2LeaveRaceDescr": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Сіз қарсылас табу үшін энергия жұмсадыңыз,\nшынымен шығғыңыз келе ме?",
+    "fixed": "Сіз қарсылас табу үшін энергия жұмсадыңыз,\nшынымен шыққыңыз келе ме?"
+  },
+  "chaosPvpCancelText": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation",
+      "inconsistent_term"
+    ],
+    "original": "Сіз шынымен ойнаушыларды\nіздеуді тоқтатқыңыз келе ме?",
+    "fixed": "Сіз шынымен ойыншыларды\nіздеуді тоқтатқыңыз келе ме?"
+  },
+  "yandexPlusStep4": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "Құттықтаймыз! Сіз Плюстесіз. Ойын ішіндегі көлік\n14 күн ішінде түгендеуіңізде пайда болады",
+    "fixed": "Құттықтаймыз! Сіз Плюстесіз. Ойын ішіндегі көлік\n14 күн ішінде инвентарыңызда пайда болады"
+  },
+  "yandexPlusStatus1Description": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "Яндекс Плюс промокоды белсендіріліп,\nмультижазылым сәтті қосылғаннан кейін ол 14 күн ішінде түгендеуіңізде пайда болады.",
+    "fixed": "Яндекс Плюс промокоды белсендіріліп,\nмультижазылым сәтті қосылғаннан кейін ол 14 күн ішінде инвентарыңызда пайда болады."
+  },
+  "yandexPlusStatus2Description": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "glossary_violation"
+    ],
+    "original": "«Сыйлықты алу» батырмасын басыңыз,\nсонда көлік түгендеуіңізде пайда болады",
+    "fixed": "«Сыйлықты алу» батырмасын басыңыз,\nсонда көлік инвентарыңызда пайда болады"
+  },
+  "tune_detail_back_alignment": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "АРТҚЫ ЖАРЫҚ",
+    "fixed": "АРТҚЫЛАРДЫҢ ҚҰЛАУЫ"
+  },
+  "restore": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ОРНАТУ",
+    "fixed": "Қалпына келтіру"
+  },
+  "alchemic_top_potion_players": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Тәттілер бойынша ТОП ойыншы",
+    "fixed": "Зельелер бойынша ТОП ойыншы"
+  },
+  "hud_play_50_hours": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Сағат ойнатылды",
+    "fixed": "50 сағат ойна"
+  },
+  "onex_profile_won": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Ұтылды",
+    "fixed": "Ұтып алынды"
+  },
+  "gts_end": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Жұмыстан шығарылады",
+    "fixed": "Жұмыстан шығу"
+  },
+  "family_upgrade_info": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Отбасыңыздың сипаттамаларын жіберу",
+    "fixed": "Отбасыңыздың сипаттамаларын жақсарту"
+  },
+  "rm_title_19": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Жанкүйерді шақыру",
+    "fixed": "Бірге тұрушыны шақыру"
+  },
+  "bankInputHintMobile": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Қайтару үшін соманы енгізіңіз",
+    "fixed": "Толықтыру сомасын енгізіңіз"
+  },
+  "halloweenStoreUpdate": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Тауар тізімін жаңартуды қалайдысыз ба?",
+    "fixed": "ТАУАР ТІЗІМІН ШЫНЫМЕН\nЖАҢАРТҚЫҢЫЗ КЕЛЕ МЕ?"
+  },
+  "killer": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "қолтабан",
+    "fixed": "өлтіруші"
+  },
+  "blackListinfoSubTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Келісімдерді орындаңыз, рейтингіңізді көтеріңіз, токендарын табыңыз\nжәнесе ерекше сыйлықтарды ашыңыз.",
+    "fixed": "Келісімшарттарды орындаңыз, дәрежеңізді көтеріңіз, токен жинаңыз\nжәне бірегей сыйлықтарды ашыңыз."
+  },
+  "blackListinfoHowToPlayStep3": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Машинаны ұрлап, жеткізіңіз — есеп аймалдарын сақтаңыз, машинаны жақсы күйде ұстаңыз.",
+    "fixed": "Машинаны ұрлап, жеткізіңіз — таймер біткенше үлгеріңіз, машинаны жақсы күйде сақтаңыз."
+  },
+  "blackListinfoHowToPlayStep4": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Сыйлық алыңыз — Токендар, Беделі және машинаға ысырамалар.",
+    "fixed": "Сыйлық алыңыз — Токендер, Бедел және көлікке жеңілдіктер."
+  },
+  "blackListinfoHowToPlayPostStep3": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Машинаны ұрлап, жеткізіңіз — есеп аймалдарын сақтаңыз, машинаны жақсы күйде ұстаңыз.",
+    "fixed": "Машинаны ұрлап, жеткізіңіз — таймер біткенше үлгеріңіз, машинаны жақсы күйде сақтаңыз."
+  },
+  "blackListinfoRewardsList": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "• Эксклюзивті автомобильдер\n• Дүкендегі ысырамалар\n• Ерекше аймарлар\n• Тематикалық аксессуарлар",
+    "fixed": "• Эксклюзивті көліктер\n• Дүкендердегі жеңілдіктер\n• Бірегей скиндер\n• Тақырыптық аксессуарлар"
+  },
+  "chaosStep1Part4HealthLabel": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "inconsistent_term"
+    ],
+    "original": "машина денсаулығы",
+    "fixed": "Көлік денсаулығы"
+  },
+  "roulette_buy_spin": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Шиыршық сатып алу",
+    "fixed": "Айналдыруды сатып алу"
+  },
+  "before": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "қазір",
+    "fixed": "дейін"
+  },
+  "donate_vehicles_test_drive": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "автосатып алу",
+    "fixed": "тест-драйв"
+  },
+  "tune_detail_transmission": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ТАРАТУ",
+    "fixed": "ТРАНСМИССИЯ"
+  },
+  "successfulCraftingMessage": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Крафт сәтті шыққан жағдайда, зат сізге пошта арқылы",
+    "fixed": "Крафт сәтті шыққан жағдайда, зат сізге\nпоштаға жіберіледі"
+  },
+  "setting": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "параметрлер\nойындар",
+    "fixed": "ОЙЫН\nБАПТАУЛАРЫ"
+  },
+  "dailyRewards": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Жүлделерді алу",
+    "fixed": "Күнделікті сыйлықтар"
+  },
+  "transmission": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "тарату",
+    "fixed": "Трансмиссия"
+  },
+  "present": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Тосын сыйлық",
+    "fixed": "Қосымшаны бағалағаныңыз үшін жағымды бонус аласыз"
+  },
+  "jungleTreasuresChose": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Аймақты таңдаңыз",
+    "fixed": "таңдау"
+  },
+  "birthday_premium_title": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Премиум тапсырмаларға қолжеткізіп, топтық сыйлықтар алыңыз!",
+    "fixed": "Премиум тапсырмаларға қол жеткізіп,\nең үздік сыйлықтарды алыңыз!"
+  },
+  "halloweenInfo4": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Әр 20 минут сайын картада алып асқабақ пайда болады. Оны алғашқы 4 ойыншы тауып алса, экспедиция картасына энергия, асқабақ, оқ-дәрі және әмияндар алады. Ең жылдамдары аирдроптан ең үлкен сый алады.",
+    "fixed": "20 МИНУТ САЙЫН ОЙЫН КАРТАСЫНЫҢ КЕЗДЕЙСОҚ ЖЕРІНДЕ АЛЫП АСҚАБАҚ ПАЙДА БОЛАДЫ. ОНЫ АЛҒАШ ТАПҚАН 4 ОЙЫНШЫ ЭКСПЕДИЦИЯ КАРТАСЫНА ЭНЕРГИЯ, АСҚАБАҚ, ОҚ-ДӘРІ ЖӘНЕ ҚҰЛЫП АШҚЫШТАР АЛАДЫ. ЕҢ ЖЫЛДАМ ҚАТЫСУШЫЛАР АИРДРОПТАН ЕҢ ҮЛКЕН СЫЙЛЫҚ АЛАДЫ."
+  },
+  "summerRushIgrat": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ОЙЫН",
+    "fixed": "ОЙНАУ"
+  },
+  "drom": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ҮЙ",
+    "fixed": "дром"
+  },
+  "blackListinfoRewardsTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Іс-қимасының ең үздік тартутарын алыңыз",
+    "fixed": "Ивенттің ең үздік сыйлықтарын алыңыз"
+  },
+  "blackListUpgradesTabMechanic": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Өнер Механигі",
+    "fixed": "Дала механигі"
+  },
+  "blackListModifierTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "МҮНДЕТТЕУШІ ШАРТТАР",
+    "fixed": "МОДИФИКАТОР ШАРТТАРЫ"
+  },
+  "questsV2CalendarAboutTaskDesc1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Картада әр сағат сайын бірнеше көлік пайда",
+    "fixed": "Картада әр сағат сайын\nбірнеше көлік пайда болады"
+  },
+  "rareItems": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "Сирек кездесетін\nзаттар",
+    "fixed": "Сирек заттар"
+  },
+  "laAuthorizationErrorViaApple": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Google арқылы авторландыру қатесі",
+    "fixed": "Apple арқылы авторландыру қатесі"
+  },
+  "laAppleSuccessfullyLinked": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Google сәтті байланысқан",
+    "fixed": "Apple-ға сәтті байланысқан"
+  },
+  "laAppleLinkingError": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Google байланыстыру қатесі",
+    "fixed": "Apple-ға байланыстыру қатесі"
+  },
+  "vk": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Контактілер",
+    "fixed": "Вконтакте"
+  },
+  "job_end_game_error_desc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Сіз дұрыс конденсаторды таңдамадыңыз. Тағы бір рет көріңіз",
+    "fixed": "Сіз қоюлатылған сүтті дұрыс таңдамадыңыз. Тағы бір рет көріңіз"
+  },
+  "donate_plates_title": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ТЕГІН НӨМІРЛЕР",
+    "fixed": "БЕДЕЛДІ НӨМІРЛЕР"
+  },
+  "tune_detail_horn": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "КЛАКСОНЫ",
+    "fixed": "КЛАКСОНДАР"
+  },
+  "tune_details_missing": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ДЕРЕКТЕР ЖОҚ",
+    "fixed": "БӨЛШЕКТЕР ЖОҚ"
+  },
+  "ultimate_cases_title": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Ультиматив",
+    "fixed": "Ультимативті кейстер"
+  },
+  "for_word": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "артында",
+    "fixed": "үшін"
+  },
+  "bank_org_1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "баланс\nфракциялар",
+    "fixed": "фракция\nбалансы"
+  },
+  "cancelLogin": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "КІРУДІ БАС ТАРТУ",
+    "fixed": "КІРУДЕН БАС ТАРТУ"
+  },
+  "fraction_vehicles_desc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Ұйымның автокүші",
+    "fixed": "Ұйым көліктерін \nспавндау"
+  },
+  "pearl": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "МАРЖАН",
+    "fixed": "Інжу"
+  },
+  "rm_title_16": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Қолыңызды қысыңыз",
+    "fixed": "Қол алысу"
+  },
+  "estateTrade": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "мүлікті бөлісу",
+    "fixed": "Мүлік айырбастау"
+  },
+  "expeditionAboutHowToTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "inconsistent_term",
+      "machine_translation_suspect"
+    ],
+    "original": "ҚАЛАЙ ЖҮЛДЕ АЛУҒА",
+    "fixed": "ҚАЛАЙ ЖҮЛДЕ АЛУҒА БОЛАДЫ"
+  },
+  "expedition_spend": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Энергияны экспедиция картасын зерттеуге",
+    "fixed": "Энергияны\nэкспедиция картасын\nзерттеуге жұмса"
+  },
+  "settingsLocomotion": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ЖАЯУ АДАМДАРДЫ БАСҚАРУ",
+    "fixed": "Жаяу басқару"
+  },
+  "mainQuestsMapPartLeft": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Болдыру",
+    "fixed": "Белгілеу"
+  },
+  "blackListinfoIncreaseRankDescription": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Келісімдерді орындаңыз және жарыстарға қатысыңыз беділі табу үшін. Жаңа рейтинг — жаңа келісімдер, премиум сыйлықтар және косметика ашса болады",
+    "fixed": "Бедел жинау үшін келісімшарттарды орындап, жарыстарға қатысыңыз. Жаңа ранг — жаңа келісімшарттарға, премиум сыйлықтарға және косметикаға қолжетімділік"
+  },
+  "blackListUpgradesTabThief": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Ұрлақ",
+    "fixed": "Бұзушы"
+  },
+  "blackListUpgradesBonusMechanicDesc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Келісім сайын машинаның шылауын келесіге дейін қалпына келтіре аласыз",
+    "fixed": "Келісімшарт сайын бір рет көліктің беріктігін мына деңгейге дейін қалпына келтіре аласыз:"
+  },
+  "blackListUpgradesBonusWrongTracksDesc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "келісім сайын карталағы өз белгіңіз пен персонаж жоғарысындағы белгіңіз ұстай аласыз",
+    "fixed": "келісімшарт сайын картадағы белгіңізді және кейіпкер үстіндегі белгіні жасыра аласыз:"
+  },
+  "blackListUpgradesBonusWrongTracksActiveDesc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Әр келісімде карталағы өз белгіңіз пен персонаж жоғарысындағы белгіңіз ұстай аласыз",
+    "fixed": "Әр келісімшартта картадағы белгіңізді және персонаж үстіндегі белгіні жасыра аласыз:"
+  },
+  "blackListDailyTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Күнделік Кіру",
+    "fixed": "Күнделікті кіру"
+  },
+  "userMenuReportsViolatorNicknameLabel": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Қылмыскердің лақап аты:",
+    "fixed": "Бұзушының лақап аты:"
+  },
+  "drag_all_parts": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "Барлық қосалқы бөлшектер",
+    "fixed": "Барлық бөлшектер"
+  },
+  "donateV2DontMiss": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "length_overflow"
+    ],
+    "original": "Қолдан шығарып алмаңыз",
+    "fixed": "Жіберіп алмаңыз "
+  },
+  "twix_card_title_2": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Бульмен, бульмен, бульмен",
+    "fixed": "Шоколад, шоколад, шоколад"
+  },
+  "tesla_game_error_0": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Ұсыныстар саны аяқталды. Қайталап көріңіз",
+    "fixed": "Әрекеттер саны таусылды. Қайталап көріңіз"
+  },
+  "police_set_on_vehicle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "автоорнату",
+    "fixed": "көлікке орнату"
+  },
+  "tuning_balance": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "сіздің шотыңыз бар",
+    "fixed": "шотыңызда"
+  },
+  "drag_race_dialog_desc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Өзіңізді нағыз жүгіруші ретінде сезініңіз, көлігіңізді жаңартыңыз және күнделікті Drag Racing жарыстарына қатысыңыз!",
+    "fixed": "Өзіңізді нағыз жарысшы ретінде сезініңіз, көлігіңізді жақсартыңыз және күнделікті Drag Racing жарыстарына қатысыңыз!"
+  },
+  "drag_race_season_pass_rating_desc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "рейтингтік жарыстарда жеңіп, тәжірибе badges",
+    "fixed": "рейтингтік жарыстарда жеңіп, badges алыңыз"
+  },
+  "entrance_roof": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "жебені ату",
+    "fixed": "кездесу белгілеу"
+  },
+  "gts_first_info": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Сіз қоқыс жәшіктерін қоқыс жәшігіне қолмен түсіріп, ақы алуыңыз керек.",
+    "fixed": "Сіз қоқыс жәшіктерін қоқыс таситын көлікке қолмен түсіріп, ақы аласыз."
+  },
+  "fam_treasury_sum": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Қайтару/алу сомасы",
+    "fixed": "Салу/алу сомасы"
+  },
+  "arena_sort_duels": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "inconsistent_term"
+    ],
+    "original": "ДУЭЛЬ",
+    "fixed": "ДУЭЛЬДЕР"
+  },
+  "arena_zombie_title": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ЖЕР АСТЫ\nТІРІ ҚАЛҒАНДАРДЫҢ",
+    "fixed": "ТІРІ ҚАЛҒАНДАРДЫҢ\nЗЫНДАНЫ"
+  },
+  "craftingChance": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "шанс\nкрафт",
+    "fixed": "Крафт\nшансы"
+  },
+  "expeditionTasksNextPageAfter": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "келесі бет арқылы қолжетімді болады",
+    "fixed": "келесі бет мына уақыттан кейін қолжетімді болады:"
+  },
+  "bankConfirmTransferTo": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ойыншы",
+    "fixed": "ойыншыға"
+  },
+  "lnyEducationTasksDailyTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "inconsistent_term"
+    ],
+    "original": "Күнделікті тапсырмалар",
+    "fixed": "Күнделікті"
+  },
+  "blackListinfoTitlePost": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Black List қош келдіңіз!",
+    "fixed": "Black List-ке қош келдіңіз!"
+  },
+  "blackListinfoHowToPlayStep6": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Жарысында беделі табыңыз — жарыстарға қатысыңыз, ұпайлар табыңыз.",
+    "fixed": "Жарыстарда бедел жинаңыз — жарыстарға қатысып, ұпай табыңыз."
+  },
+  "bigCatchAllRewards": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "inconsistent_term"
+    ],
+    "original": "Барлық марапаттар",
+    "fixed": "Барлық сыйлықтар"
+  },
+  "inventoryMailDelete": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "inconsistent_term"
+    ],
+    "original": "Жою",
+    "fixed": "Өшіру"
+  },
+  "caseSales": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Кейс сатылымдары",
+    "fixed": "Кейстерге жеңілдіктер"
+  },
+  "laForceCheckFilesHelp": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Файлдарды қайта тексеру ойынына кіріңіз!",
+    "fixed": "Файлдарды қайта тексеру үшін ойынға кіріңіз!"
+  },
+  "mediumDescription": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Стандартты баптаулар графика, барлық телефондар үшін ең жақсы шешім.",
+    "fixed": "Стандартты графика баптаулары, барлық телефондар үшін ең жақсы шешім."
+  },
+  "twix_making_cookie_game_game_desc": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Сіз бұрау үшін етті дайындап қойдыңыз. Сізге тек еттің әр түрін ет турағышқа салып, оны айналдыру ғана қалады.",
+    "fixed": "Сіз ұнды ас үй комбайнының ыдысына електен өткізіп қойдыңыз. Енді оған қант пен салқындатылған сары майды қосып араластыру ғана қалды."
+  },
+  "twix_card_title_0": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Турама дайындау",
+    "fixed": "Twix таяқшасын дайындау"
+  },
+  "twix_card_desc_0": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Сіз бұрау үшін етті дайындап қойдыңыз. Сізге тек еттің әр түрін ет турағышқа салып, оны айналдыру ғана қалды.\n\nСізді қызметта күтеміз!",
+    "fixed": "Сіз ұнды кухня комбайнының ыдысына електен өткізіп қойдыңыз. Енді оған қант пен салқындатылған сары майды араластыру ғана қалды.\n\nСізді жұмыста күтеміз!"
+  },
+  "twix_card_info_0": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Ыстық зат фабрикасының 1 деңгейінен қолжетімді",
+    "fixed": "Twix фабрикасының 1 деңгейінен қолжетімді"
+  },
+  "twix_card_title_1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Бульмен жасау",
+    "fixed": "Қайнатылған қоюлатылған сүтті жағу"
+  },
+  "twix_card_desc_1": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Сіз тураманы алдыңыз, енді оны тұздау керек. Тұз салынған ыдысты таңдап, тураманы қамырмен жабыстырыңыз.",
+    "fixed": "Сіз қамыр қабатын алдыңыз, енді оған тағы бір қабат – қайнатылған қоюлатылған сүт жағу керек. Ең ашық, карамель реңкті түрін таңдаңыз."
+  },
+  "twix_card_desc_2": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Дайын бульмендерді қаптамаға жинап, мөрлеу ғана қалды.",
+    "fixed": "Шоколадты ерітсеңіз болды, Twix таяқшасын кейін қаптау үшін мұздатуға жіберуге болады.\nШоколад бөліктерін таза, құрғақ ыдысқа салып, плитадағы қайнап жатқан су моншасына қойыңыз."
+  },
+  "tesla_detail_windshield": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Маңдайша",
+    "fixed": "Алдыңғы әйнек"
+  },
+  "accessories_type_caps": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "same_as_source"
+    ],
+    "original": "КЕПКИ",
+    "fixed": "КЕПКІЛЕР"
+  },
+  "tune_detail_suspension": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "ІЛГІШ",
+    "fixed": "АСПА"
+  },
+  "tune_detail_back_offset": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "АРТҚЫЛАРДЫ ҰШЫРУ",
+    "fixed": "АРТҚЫЛАРДЫ ШЫҒАРУ"
+  },
+  "tune_buy_wheel": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Дискілер саны",
+    "fixed": "Дискілер №"
+  },
+  "tuning_detail_transmission": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "тарату",
+    "fixed": "Трансмиссия"
+  },
+  "alchemic_next_page_open": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "келесі бет арқылы қолжетімді болады",
+    "fixed": "келесі бет мына уақыттан кейін қолжетімді болады:"
+  },
+  "alchemic_kettle_will_cooldown": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Қазаншадан кейін салқындайды",
+    "fixed": "Қазан суығанша:"
+  },
+  "alchemy_monkey": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Мешін",
+    "fixed": "Маймыл"
+  },
+  "craftingItems": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Өршеленулер",
+    "fixed": "Қорлаулар"
+  },
+  "tablet_taxi_econom": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Үнемдеу",
+    "fixed": "Эконом"
+  },
+  "arena_to_battle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Жекпе-жекте",
+    "fixed": "ШАЙҚАСҚА"
+  },
+  "structureAnalysis": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "құрылымды нығайту және дамыту бізден қойылған міндеттерге қатысты қатысушылардың ұстанымдарын\nталдауды талап етеді. Ұйымдастырудың жаңа үлгісі тең\nбейнемен",
+    "fixed": "Құрылымды нығайту және дамыту бізден қатысушылардың қойылған міндеттерге қатысты ұстанымдарын\nталдауды талап етеді. Сол сияқты, ұйымдастырудың жаңа\nүлгісі"
+  },
+  "rm_title_7": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Кісенді кию",
+    "fixed": "Кісен салу"
+  },
+  "yearstate": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Мемлекеттегі жасы",
+    "fixed": "Штаттағы жылдары"
+  },
+  "halloweenHuntersKit": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "АУ АЛУШЫ\nЖИНАҒЫ",
+    "fixed": "АҢШЫ\nЖИНАҒЫ"
+  },
+  "alchemySugarCane": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Қамыс қанты",
+    "fixed": "Қант қамысы"
+  },
+  "blackListinfoHowToPlayStep5": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "machine_translation_suspect"
+    ],
+    "original": "Рейтингіңіз көтеріңіз — және күрделі және пайдалы келісімдерді ашыңыз.",
+    "fixed": "Рангіңізді көтеріңіз — күрделірек әрі тиімдірек келісімшарттарды ашыңыз."
+  },
+  "pirate_main_prizes": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Басты тартутар",
+    "fixed": "Басты жүлделер"
+  },
+  "halloweenInfo9": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "КӘНТ ЖИНАУ",
+    "fixed": "КӘМПИТ ЖИНАУ"
+  },
+  "alchemic_open_2_level_button": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "2-ши деңгейді ашу",
+    "fixed": "2-ші деңгейді ашу"
+  },
+  "alchemy_box": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Қорабы",
+    "fixed": "Қорап"
+  },
+  "drom_sell_car_q": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Сатпадан шынымен алып тастағыңыз келе ме?",
+    "fixed": "Сатылымнан шынымен алып тастағыңыз келе ме?"
+  },
+  "eduSkipVideoConfirmationTitle": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "СЕНІМДІМІСІЗ",
+    "fixed": "Сенімдісіз бе"
+  },
+  "lnyMapUnavailable": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Бұл аймақ қолжетімді емес. Алдыңғы аймақты босаттыңыз.",
+    "fixed": "Бұл аймақ қолжетімді емес. Алдыңғы аймақты босатыңыз."
+  },
+  "blackListinfoProfitInfoStep2": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Беділі — сіздің рейтингіңіз көтеріп және жаңа келісімдерді ашып береді.",
+    "fixed": "Бедел — рангіңізді көтеріп, жаңа келісімшарттарды ашады."
+  },
+  "newYearCancel": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "inconsistent_term"
+    ],
+    "original": "БАС ТАРТУ",
+    "fixed": "БОЛДЫРМАУ"
+  },
+  "halloweenBossHealth": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "ҚҰЛПЫРЫҚ ДЕНСАУЛЫҒЫ",
+    "fixed": "ҚҰБЫЖЫҚ ДЕНСАУЛЫҒЫ"
+  },
+  "sct_sell_input_price": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "НӨМЕРДІ САТУ ҚҰНЫН ЕНГІЗУ",
+    "fixed": "НӨМІРДІ САТУ ҚҰНЫН ЕНГІЗІҢІЗ"
+  },
+  "pirate_buy_map": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Сіз шынымен Қазына картасының 2-деңгейін сатып алғыңыз келе",
+    "fixed": "Сіз шынымен\nҚазына картасының 2-деңгейін сатып алғыңыз келе ме?"
+  },
+  "goldenTicketInfoP2": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "inconsistent_term"
+    ],
+    "original": "Рұқсаттаманы сатып алу\nпремиум марапаттарды ашады",
+    "fixed": "Рұқсатнаманы сатып алу\nпремиум марапаттарды ашады"
+  },
+  "chaosStep1Part0Text": {
+    "reviewed_by_human": true,
+    "reviewer": "Sayan",
+    "issue_types": [
+      "orthography"
+    ],
+    "original": "Мұнда ережелерді тірі қалғандар жазатын қала арқылы\nсапарың басталады. Миссияларды орында, боссарды\nжең және турнирдің жаңа кезеңдерін аш.",
+    "fixed": "Мұнда ережелерді тірі қалғандар жазатын қала арқылы\nсапарың басталады. Миссияларды орында, босстарды\nжең және турнирдің жаңа кезеңдерін аш."
+  }
+}

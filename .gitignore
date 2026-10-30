@@ -1,0 +1,9 @@
+# Raw organizer data is confidential (case rules): never commit the
+# original handed-out ARB files. The *deliverables* we produce from them
+# (out/, work/, glossary.csv) are explicitly required submissions per the
+# case brief ("Что сдаете") and are tracked normally.
+data/
+.locqa_cache/
+__pycache__/
+*.egg-info/
+.pytest_cache/

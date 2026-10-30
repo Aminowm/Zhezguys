@@ -1,0 +1,303 @@
+{"key": "bankConfirmApartment", "verdict": "ok", "text": "Сіз шынымен жылжымайтын мүлікке төлем жасағыңыз келе ме: Пәтер\nсомасы", "note": "missing key; draft natural, amount follows 'сомасы'"}
+{"key": "invDisassemble", "verdict": "ok", "text": "БӨЛШЕКТЕУ", "note": "correct caps button"}
+{"key": "laAccountEmptyHelpTopText1", "verdict": "ok", "text": "Мұнда кейіпкерлеріңіздің\nстатистикасы көрсетіледі", "note": "natural, line break kept"}
+{"key": "piggyGetBy", "verdict": "ok", "text": "Алу бағасы:", "note": "price follows; avoids postposed case"}
+{"key": "laAuthorisationError", "verdict": "ok", "text": "Авторизация қатесі", "note": "Uzbek replaced"}
+{"key": "donate_to_mail", "verdict": "ok", "text": "Поштаға", "note": "Uzbek replaced"}
+{"key": "bankTotalToPay", "verdict": "ok", "text": "Төлеуге барлығы:", "note": "Uzbek replaced"}
+{"key": "birthday_main_updates_in", "verdict": "improve", "text": "Жаңаруына дейін: {time}", "note": "braces restored; also conveys 'через' (time until update)"}
+{"key": "edu_tablet_purchase_item_lottery_ticket", "verdict": "ok", "text": "Лотерея билеті", "note": "Uzbek replaced"}
+{"key": "rustoreOfferBuyFor", "verdict": "ok", "text": "{price} бағасына сатып алу", "note": "braces restored"}
+{"key": "srv2endsIn", "verdict": "ok", "text": "ИВЕНТТІҢ АЯҚТАЛУЫНА ҚАЛДЫ:", "note": "Uzbek replaced, glossary ивент, caps kept"}
+{"key": "schGiftPassConfirmQuestion", "verdict": "ok", "text": "Сіз шынымен {name} сыйлағыңыз келе ме", "note": "braces restored"}
+{"key": "schTutorialT2S1", "verdict": "ok", "text": "Жолақты бақыла: {playerTeamText}.\nҰпайлар фракцияның барлық мүшелерінің әрекеттерінен жиналады.\nДуэльдердің ережелері мен қатысу шарттарын білу үшін\n<g>Шайқас ақпараты</g> түймесін бас!", "note": "braces restored, tags and 3 breaks kept"}
+{"key": "bankConfirmHouse", "verdict": "ok", "text": "Сіз шынымен жылжымайтын мүлікке төлем жасағыңыз келе ме: Үй\nсомасы", "note": "Russian replaced; consistent with apartment string"}
+{"key": "footballTutorDesc31", "verdict": "ok", "text": "Матчтарға қатысу үшін жанармай қажет.", "note": "Russian replaced"}
+{"key": "detail_type_almaz", "verdict": "ok", "text": "Алмас", "note": "filler removed"}
+{"key": "summerRushRaceGasAfterPrefix", "verdict": "ok", "text": "кейін:", "note": "filler removed"}
+{"key": "inventoryEquipped", "verdict": "ok", "text": "Киілген", "note": "English replaced"}
+{"key": "userMenuReportsAdminConclusionReviewed", "verdict": "improve", "text": "Қорытынды: админ.{adminName} (Қаралды)", "note": "'әкім' means mayor/akim, not admin; use 'админ.'"}
+{"key": "predictionsBracketWinner", "verdict": "ok", "text": "Жеңімпаз", "note": "filler removed"}
+{"key": "alchemy_gun", "verdict": "ok", "text": "Тапанша", "note": "correct word for pistol"}
+{"key": "notReadyToTrade", "verdict": "ok", "text": "Айырбастауға дайын емес", "note": "negation restored"}
+{"key": "newYearBannerDesc", "verdict": "ok", "text": "Жаңа жылдық жаңа локацияға кіріп, Жаңа жылды Grand Mobile-мен бірге қарсы ал!\n\nШағын ойындарға қатысып, тәжірибе жина, жарыстарға қатыс және керемет сыйлықтарды ал!", "note": "garbled MT fixed; informal 'сен' matches source; 2 breaks kept"}
+{"key": "laNeedValidEmail", "verdict": "improve", "text": "Дұрыс мекенжайды көрсетіңіз", "note": "old text unrelated; stay close to source, use standard 'мекенжай' instead of 'адрес'"}
+{"key": "drag_race_gold_league", "verdict": "ok", "text": "Алтын лига", "note": "glossary лига"}
+{"key": "diagnosis", "verdict": "ok", "text": "Диагноз", "note": "standard loanword"}
+{"key": "expeditionMapCancel", "verdict": "ok", "text": "Болдырмау", "note": "Start -> Cancel fixed"}
+{"key": "schMinigameSkillRedZone", "verdict": "ok", "text": "Жүгірткі қызыл аймақта\nболғанда экранды бас", "note": "verb and line break restored"}
+{"key": "accessories", "verdict": "ok", "text": "Аксессуарлар", "note": "Kazakh plural"}
+{"key": "bones_select", "verdict": "ok", "text": "ТАҢДАУ", "note": "button, caps kept"}
+{"key": "marketplace_accessories_tab", "verdict": "improve", "text": "АКСЕССУАРЛАР", "note": "Kazakh plural; source is ALL CAPS"}
+{"key": "tune_detail_body_kits", "verdict": "ok", "text": "ОБВЕСТЕР", "note": "tuning loanword with Kazakh plural; 'ШОЛУ' was wrong"}
+{"key": "alchemy_woodpecker", "verdict": "ok", "text": "Тоқылдақ", "note": "correct Kazakh word"}
+{"key": "tablet_ad_info", "verdict": "ok", "text": "Хабарландырудың ұзындығы 1-ден 70 таңбаға дейін", "note": "numbers fixed, suffixes correct"}
+{"key": "drom_mileage", "verdict": "ok", "text": "Жүрісі", "note": "standard term in car listings"}
+{"key": "stonePickaxe", "verdict": "ok", "text": "Тас қайла", "note": "glossary қайла"}
+{"key": "expeditionBoosterPurchaseLocatorDesc", "verdict": "ok", "text": "Сатып алғаннан кейін картада бірден энергияның нақты орны пайда болады. Бірақ кешікпеңіз — бұл жарыс! Жолда басқа ойыншылар да тауып алып кетуі мүмкін. Неғұрлым жылдам болсаңыз, энергияның сізге тию мүмкіндігі соғұрлым жоғары.", "note": "meaning reversal fixed, 'chance' restored"}
+{"key": "alabugaSchoolOpennedDesc", "verdict": "ok", "text": "Саған қызықты үш апта дайындадық.\nСабақтан қалма, соңында сыйлық ала аласың.", "note": "three weeks and prize restored"}
+{"key": "alchemyStick", "verdict": "ok", "text": "Таяқ", "note": "correct word"}
+{"key": "dragRacingV2LeagueDown", "verdict": "ok", "text": "Төмендеу", "note": "correct meaning"}
+{"key": "pirate_treasury_map", "verdict": "ok", "text": "Қазына картасы", "note": "к->қ"}
+{"key": "chaosStep7Part0Text", "verdict": "ok", "text": "Мұнда сен турнирдің басқа\nқатысушылары арасындағы орныңды көресің. REP\nжәне PVP жеңістері неғұрлым көп болса, соғұрлым жоғары көтерілесің.", "note": "Latin c homoglyph fixed"}
+{"key": "allowMicrophoneAccess", "verdict": "ok", "text": "МИКРОФОНҒА РҰҚСАТ БЕРІҢІЗ", "note": "К->Қ"}
+{"key": "alabuga_math_check_hint", "verdict": "ok", "text": "Мысалдарды 5 секундта тексеріңіз", "note": "и->і"}
+{"key": "superPrize", "verdict": "ok", "text": "Супер сыйлық", "note": "к->қ, capitalized like source"}
+{"key": "dragRacingV2BuyBSlotTitle", "verdict": "ok", "text": "СЫЗБАЛАР ҮШІН ҚОСЫМША ҰЯШЫҚ", "note": "К->Қ"}
+{"key": "footballShopTicketsDesc0", "verdict": "ok", "text": "Сатып алынатын билеттер санын енгізіңіз", "note": "и->і"}
+{"key": "newYearChapter", "verdict": "improve", "text": "АКТ {competition}", "note": "remove hard-coded suffix; 'X АКТІ' reads as possessive, keep source order"}
+{"key": "srv2needPassLevel", "verdict": "ok", "text": "Пропусктың\n{id} деңгейі қажет", "note": "hard-coded suffix removed, reads naturally"}
+{"key": "tune_tuning", "verdict": "ok", "text": "ТЮНИНГ", "note": "missing letters restored"}
+{"key": "fraction_warns", "verdict": "improve", "text": "Сөгістер", "note": "glossary requires сөгіс; 'Ескертулер' also violates it"}
+{"key": "level_min", "verdict": "ok", "text": "Дең.", "note": "glossary abbreviation"}
+{"key": "arena_bet_not_selected_error", "verdict": "ok", "text": "Ставканы көрсетпедіңіз!", "note": "и->і"}
+{"key": "rm_title_25", "verdict": "improve", "text": "Сөгіс беру", "note": "source is action 'Выдать выговор'; glossary form 'сөгіс беру', capitalized"}
+{"key": "inventoryItemTemporaryUntransferable", "verdict": "ok", "text": "Бұл зат уақытша және оны басқа ойыншыларға беруге болмайды", "note": "glossary ойыншы"}
+{"key": "tune_detail_back_alignment", "verdict": "improve", "text": "АРТҚЫЛАРДЫҢ ҚҰЛАУЫ", "note": "'rear light' was wrong; tuning loan 'развал' acceptable | aligned with sibling strings"}
+{"key": "hud_play_50_hours", "verdict": "ok", "text": "50 сағат ойна", "note": "number and imperative restored"}
+{"key": "tp_houses", "verdict": "ok", "text": "Үйлер", "note": "category plural"}
+{"key": "rm_title_19", "verdict": "ok", "text": "Бірге тұрушыны шақыру", "note": "correct meaning"}
+{"key": "killer", "verdict": "ok", "text": "өлтіруші", "note": "correct word, lowercase as source"}
+{"key": "blackListinfoHowToPlayStep4", "verdict": "ok", "text": "Сыйлық алыңыз — Токендер, Бедел және көлікке жеңілдіктер.", "note": "harmony and word choice fixed"}
+{"key": "chaosStep1Part4HealthLabel", "verdict": "ok", "text": "Көлік денсаулығы", "note": "consistent term"}
+{"key": "donate_vehicles_test_drive", "verdict": "ok", "text": "тест-драйв", "note": "loanword; old meant car purchase"}
+{"key": "successfulCraftingMessage", "verdict": "ok", "text": "Крафт сәтті шыққан жағдайда, зат сізге\nпоштаға жіберіледі", "note": "verb and line break restored"}
+{"key": "rubyPickaxe", "verdict": "ok", "text": "Рубин қайла", "note": "ruby + glossary қайла"}
+{"key": "jungleTreasuresChose", "verdict": "ok", "text": "Таңдау", "note": "button"}
+{"key": "summerRushIgrat", "verdict": "ok", "text": "ОЙНАУ", "note": "verb for button"}
+{"key": "blackListinfoTitle", "verdict": "ok", "text": "Black List ивентіне қош келдіңіз!", "note": "glossary ивент"}
+{"key": "blackListinfoRewardsTitle", "verdict": "ok", "text": "Ивенттің ең үздік сыйлықтарын алыңыз", "note": "non-word fixed"}
+{"key": "questsV2CalendarAboutTaskDesc1", "verdict": "ok", "text": "Картада әр сағат сайын\nбірнеше көлік пайда болады", "note": "verb and line break restored"}
+{"key": "laAppleLinkingError", "verdict": "ok", "text": "Apple байланыстыру қатесі", "note": "service name fixed"}
+{"key": "donate_plates_title", "verdict": "ok", "text": "ЕРЕКШЕ НӨМІРЛЕР", "note": "'free' was wrong"}
+{"key": "ultimate_cases_title", "verdict": "ok", "text": "Ультимативті кейстер", "note": "truncation fixed, glossary кейс"}
+{"key": "cancelLogin", "verdict": "ok", "text": "КІРУДЕН БАС ТАРТУ", "note": "ablative government"}
+{"key": "rm_title_16", "verdict": "ok", "text": "Қол алысу", "note": "correct action"}
+{"key": "expeditionAboutHowToTitle", "verdict": "improve", "text": "ҚАЛАЙ ЖҮЛДЕ АЛУҒА БОЛАДЫ", "note": "grammatical | aligned with the 4 sibling strings"}
+{"key": "mainQuestsMapPartLeft", "verdict": "ok", "text": "Белгілеу", "note": "correct verb"}
+{"key": "blackListUpgradesBonusMechanicDesc", "verdict": "improve", "text": "Келісімшарт сайын бір рет көліктің беріктігін мына деңгейге дейін қалпына келтіре аласыз:", "note": "value is appended after 'до'; 'келесі деңгейге' would read as 'next level' — use 'мына деңгейге ... :'"}
+{"key": "blackListDailyTitle", "verdict": "ok", "text": "Күнделікті кіру", "note": "diary -> daily"}
+{"key": "userMenuReportsViolatorNicknameLabel", "verdict": "ok", "text": "Бұзушының лақап аты:", "note": "violator not criminal"}
+{"key": "police_set_on_vehicle", "verdict": "ok", "text": "көлікке орнату", "note": "correct meaning"}
+{"key": "drag_race_season_pass_rating_desc", "verdict": "ok", "text": "рейтингтік жарыстарда жеңіп, badges алыңыз", "note": "verb restored"}
+{"key": "gts_first_info", "verdict": "ok", "text": "Сіз қоқыс жәшіктерін қоқыс таситын көлікке қолмен түсіріп, ақы аласыз.", "note": "garbage truck fixed"}
+{"key": "arena_zombie_title", "verdict": "ok", "text": "ТІРІ ҚАЛҒАНДАРДЫҢ\nЗЫНДАНЫ", "note": "word order fixed, 1 break kept"}
+{"key": "expeditionTasksNextPageAfter", "verdict": "improve", "text": "келесі бет мына уақыттан кейін қолжетімді болады:", "note": "fix good; keep lowercase like source"}
+{"key": "blackListinfoTitlePost", "verdict": "ok", "text": "Black List-ке қош келдіңіз!", "note": "dative added to fixed brand name"}
+{"key": "inventoryMailDelete", "verdict": "improve", "text": "Өшіру", "note": "consistent term, but source is not ALL CAPS"}
+{"key": "laForceCheckFilesHelp", "verdict": "ok", "text": "Файлдарды қайта тексеру үшін ойынға кіріңіз!", "note": "purpose clause fixed"}
+{"key": "twix_card_title_0", "verdict": "ok", "text": "Twix таяқшасын дайындау", "note": "correct meaning"}
+{"key": "twix_card_title_1", "verdict": "improve", "text": "Қайнатылған қоюлатылған сүтті жағу", "note": "definite object needs accusative 'сүтті'"}
+{"key": "tesla_detail_windshield", "verdict": "ok", "text": "Алдыңғы әйнек", "note": "windshield"}
+{"key": "tune_detail_back_offset", "verdict": "ok", "text": "АРТҚЫЛАРДЫ ШЫҒАРУ", "note": "removes 'flying' calque, mirrors front variant"}
+{"key": "alchemic_next_page_open", "verdict": "improve", "text": "келесі бет мына уақыттан кейін қолжетімді болады:", "note": "fix good; add colon before timer, consistent with expeditionTasksNextPageAfter"}
+{"key": "ornaments", "verdict": "ok", "text": "Қорлаулар", "note": "insults"}
+{"key": "arena_to_battle", "verdict": "ok", "text": "ШАЙҚАСҚА", "note": "dative button, caps"}
+{"key": "yearstate", "verdict": "ok", "text": "Штаттағы жылдары", "note": "years on staff"}
+{"key": "blackListinfoHowToPlayStep5", "verdict": "ok", "text": "Рангіңізді көтеріңіз — күрделірек әрі тиімдірек келісімшарттарды ашыңыз.", "note": "grammar fixed"}
+{"key": "alchemic_open_2_level_button", "verdict": "ok", "text": "2-ші деңгейді ашу", "note": "front-vowel ordinal"}
+{"key": "eduSkipVideoConfirmationTitle", "verdict": "ok", "text": "Сенімдісіз бе", "note": "correct question particle"}
+{"key": "halloweenBossHealth", "verdict": "ok", "text": "ҚҰБЫЖЫҚ ДЕНСАУЛЫҒЫ", "note": "monster = құбыжық"}
+{"key": "summerRushRaceMaxSpeedSuffix", "verdict": "ok", "text": "КМ/САҒ", "note": "case fixed"}
+{"key": "bigCatchStoryLineSkipTimer", "verdict": "ok", "text": "Таймерді өткізіп жіберу", "note": "Real issue; proposed fix is correct"}
+{"key": "inventory", "verdict": "ok", "text": "Инвентарь", "note": "Real issue; proposed fix is correct"}
+{"key": "laYouNeedToLinkThisSocialNetworkToAccount", "verdict": "ok", "text": "Бұл әлеуметтік желіні аккаунтқа байланыстыру қажет", "note": "Real issue; proposed fix is correct"}
+{"key": "predictionsBetsPossibleReward", "verdict": "improve", "text": "Ықтимал ұтыс", "note": "'Ықтимал' is more natural than 'Мүмкін' for 'possible winnings'"}
+{"key": "pauseSettingsSocialMedia", "verdict": "ok", "text": "ӘЛЕУМЕТТІК ЖЕЛІЛЕРДІ БАЙЛАНЫСТЫРУ", "note": "Real issue; proposed fix is correct"}
+{"key": "repeat", "verdict": "ok", "text": "Тағы бір рет", "note": "Real issue; proposed fix is correct"}
+{"key": "summerRushFreshCases", "verdict": "ok", "text": "Жаңа кейстер", "note": "Real issue; proposed fix is correct"}
+{"key": "arena_platform_colorname", "verdict": "ok", "text": "{platformColor} платформаға тұрыңыз", "note": "Real issue; proposed fix is correct"}
+{"key": "dragRacingV2BuyDesc1", "verdict": "ok", "text": "{blueprintTitle} үшін сызбалар", "note": "Real issue; proposed fix is correct"}
+{"key": "chaosUpgradeText", "verdict": "ok", "text": "Сіз өз көлігіңіздің {upgradeTitle}\nкөрсеткішін {upgradeLevel} деңгейге дейін жақсарттыңыз!", "note": "Real issue; proposed fix is correct"}
+{"key": "schAssignmentTrainerIntro", "verdict": "ok", "text": "Бәрінен үздік болғың келе ме? Онда үздік бол!\n<g>Әр сағат сайын</g> бүкіл картада шамамен <g>{books} кітап</g> пайда болады!\nОларды жинау үшін бәрінен жылдам әрі епті болуың керек!\nКітаптарды жинап, маған әкелсең – сыйлық аласың.", "note": "Real issue; proposed fix is correct"}
+{"key": "schPassRewardLevelRequired", "verdict": "ok", "text": "Пасстың {level}\nдеңгейі қажет", "note": "Real issue; proposed fix is correct"}
+{"key": "schTutorialT8S0", "verdict": "ok", "text": "Жылдам жеңіс үшін заңды „чит-кодтар“ керек пе?\n<g>Бустерлер</g> бөлімі — сенің жеке күшейткішің! Мұнда\nқарсыластарыңнан басым түсуге көмектесетін арнайы\nжақсартулар сатылады.", "note": "Real issue; proposed fix is correct"}
+{"key": "summerRushAfkKickCountdown", "verdict": "ok", "text": "АФК үшін шығарылуға дейін", "note": "Real issue; proposed fix is correct"}
+{"key": "laUnknownNetworkError", "verdict": "ok", "text": "Белгісіз қате", "note": "Real issue; proposed fix is correct"}
+{"key": "rm_title_73", "verdict": "ok", "text": "Қорқыту", "note": "Real issue; proposed fix is correct"}
+{"key": "halloweenEnergyBank", "verdict": "ok", "text": "ЭНЕРГИЯ\nЖИНАҚ ЖӘШІГІ", "note": "Real issue; proposed fix is correct"}
+{"key": "inventoryMailSubsectionTop", "verdict": "ok", "text": "Үсті", "note": "Real issue; proposed fix is correct"}
+{"key": "predictionsBetsTitle", "verdict": "improve", "text": "Ставкалар қабылдау", "note": "'тігіс' means seam, not bet; use 'ставка'"}
+{"key": "srv2needPremiumPass", "verdict": "ok", "text": "Premium Pass қажет", "note": "Real issue; proposed fix is correct"}
+{"key": "chat_hint", "verdict": "false_positive", "text": null, "note": "Old is a correct, natural translation; length is fine"}
+{"key": "summerRushPressToStart", "verdict": "false_positive", "text": null, "note": "Old is a correct, natural translation; shorter than source"}
+{"key": "dragRacingInfo", "verdict": "ok", "text": "Ақпарат", "note": "Real issue; proposed fix is correct"}
+{"key": "drag_race_dialog_welcome", "verdict": "improve", "text": "Қош келдіңіз\nGRAND MOBILE ЖАРЫС ИВЕНТІНЕ", "note": "Keep source caps on line 2; glossary ивент"}
+{"key": "alchemic_potions", "verdict": "improve", "text": "Зельелер", "note": "'Зельелер' is a raw Russian stem, not natural Kazakh | aligned with sibling strings"}
+{"key": "jungleTreasuresCancel", "verdict": "ok", "text": "Болдырмау", "note": "Real issue; proposed fix is correct"}
+{"key": "summerRushRaceCancel", "verdict": "ok", "text": "БОЛДЫРМАУ", "note": "Real issue; proposed fix is correct"}
+{"key": "onex_bet_draw_suffix", "verdict": "ok", "text": "ТЕҢ ОЙЫН", "note": "Real issue; proposed fix is correct"}
+{"key": "edu_desc_hud_user_menu", "verdict": "ok", "text": "Мәзірге экранның жоғарғы жағындағы пернені басу арқылы кіруге болады. Ол арқылы бірқатар пайдалы функциялар қолжетімді.\n\nМысалы, планшет. Планшетте көптеген маңызды қосымшалар бар: қоңыраулар, смс, жылжымайтын мүлікті сатып алуға арналған аукциондар, скиндер мен аксессуарларды сатуға болатын сауда алаңы.", "note": "Real issue; proposed fix is correct"}
+{"key": "bones_dealer", "verdict": "ok", "text": "ДИЛЕР", "note": "Real issue; proposed fix is correct"}
+{"key": "choose", "verdict": "ok", "text": "Таңдау", "note": "Real issue; proposed fix is correct"}
+{"key": "tune_detail_exhaust", "verdict": "ok", "text": "ШЫҒАРУ ЖҮЙЕСІ", "note": "Real issue; proposed fix is correct"}
+{"key": "cancel_1", "verdict": "ok", "text": "Болдырмау", "note": "Real issue; proposed fix is correct"}
+{"key": "gts_need", "verdict": "ok", "text": "Жұмысқа орналасу талаптары", "note": "Real issue; proposed fix is correct"}
+{"key": "objects", "verdict": "ok", "text": "Заттар", "note": "Real issue; proposed fix is correct"}
+{"key": "item", "verdict": "ok", "text": "Зат", "note": "Real issue; proposed fix is correct"}
+{"key": "sberQuestAutoDesc", "verdict": "ok", "text": "«Автоквестті» таңдағанда, 30 күнге инкассатор көлігін аласыз. Оны мәңгілікке қалдыру үшін квестті аяқтап, мерзімін ұзарту керек!", "note": "Real issue; proposed fix is correct"}
+{"key": "edu_title_hud_change_buttons", "verdict": "ok", "text": "Худтағы батырмалардың орналасуы", "note": "Real issue; proposed fix is correct"}
+{"key": "blackListinfoProfitInfoStep3", "verdict": "ok", "text": "Отын — келісімшарттар мен жарыстар үшін қажет. Уақыт өте келе қалпына келеді.", "note": "Real issue; proposed fix is correct"}
+{"key": "summerRushHUD", "verdict": "ok", "text": "ЖАЗҒЫ ЕКПІН", "note": "Real issue; proposed fix is correct"}
+{"key": "mesVehicleSelectTitle", "verdict": "ok", "text": "Көлікті таңдау", "note": "Real issue; proposed fix is correct"}
+{"key": "tripleJackpotRewardAvailable", "verdict": "ok", "text": "Сізге сыйлық қолжетімді", "note": "Real issue; proposed fix is correct"}
+{"key": "complaint_state_user_comment", "verdict": "ok", "text": "Пікір алынды", "note": "Real issue; proposed fix is correct"}
+{"key": "onex_profile_date", "verdict": "ok", "text": "Күн және уақыт", "note": "Real issue; proposed fix is correct"}
+{"key": "summerRushRaceNotEnoughGas", "verdict": "ok", "text": "ЖАРЫСҚА ҚАТЫСУҒА\nОТЫН ЖЕТПЕЙДІ.", "note": "Real issue; proposed fix is correct"}
+{"key": "userMenuArenaMapSelection", "verdict": "ok", "text": "Карта таңдау:", "note": "Real issue; proposed fix is correct"}
+{"key": "laBillingRetrying", "verdict": "ok", "text": "{provider} қызметіне қосылу мүмкін емес. Қайта әрекет жасалуда…", "note": "Real issue; proposed fix is correct"}
+{"key": "userMenuReportsFromTo", "verdict": "improve", "text": "Кімнен: {fromUser}, кімге: {toUser}", "note": "Parallel labels; no affixes on placeholders"}
+{"key": "rouletteBetText", "verdict": "ok", "text": "Сіз шынымен <g>{x}X</g> мәніне\n<g>{bet} GC</g> ставка жасағыңыз келе ме?", "note": "Real issue; proposed fix is correct"}
+{"key": "gas_restore_2", "verdict": "ok", "text": "Жарнаманы көріп, ақысыз бензин алыңыз", "note": "Real issue; proposed fix is correct"}
+{"key": "launcherAuthSavedProfileCharacters", "verdict": "ok", "text": "Кейіпкерлер:", "note": "Real issue; proposed fix is correct"}
+{"key": "fraction_give_warn", "verdict": "improve", "text": "Сөгіс беру", "note": "Button needs verb 'беру' and capital letter"}
+{"key": "aboutCrafting", "verdict": "improve", "text": "Крафт туралы", "note": "Capitalize title"}
+{"key": "resourcesDescription", "verdict": "improve", "text": "Ресурстар крафт жасауға және түрлі тапсырмаларды орындауға қажет, оларды сатып алушыларға сатуға да болады", "note": "'крафт' needs a verb; proposed sentence was ungrammatical"}
+{"key": "dragRacingV2LeaveRaceDescr", "verdict": "ok", "text": "Сіз қарсылас табу үшін энергия жұмсадыңыз,\nшынымен шыққыңыз келе ме?", "note": "Real issue; proposed fix is correct"}
+{"key": "restore", "verdict": "ok", "text": "Қалпына келтіру", "note": "Real issue; proposed fix is correct"}
+{"key": "buyPickaxe", "verdict": "ok", "text": "Ресурстарды өндіру үшін әр карьерде орналасқан арнайы дүкеннен қайла сатып алу қажет.", "note": "Real issue; proposed fix is correct"}
+{"key": "gts_end", "verdict": "ok", "text": "Жұмыстан шығу", "note": "Real issue; proposed fix is correct"}
+{"key": "bankInputHintMobile", "verdict": "ok", "text": "Толықтыру сомасын енгізіңіз", "note": "Real issue; proposed fix is correct"}
+{"key": "blackListinfoSubTitle", "verdict": "improve", "text": "Келісімшарттарды орындаңыз, дәрежеңізді көтеріңіз, токен жинаңыз\nжәне бірегей сыйлықтарды ашыңыз.", "note": "Avoid uncertain 'рангіңізді' harmony; 'жинаңыз' more natural"}
+{"key": "blackListinfoHowToPlayPostStep3", "verdict": "ok", "text": "Машинаны ұрлап, жеткізіңіз — таймер біткенше үлгеріңіз, машинаны жақсы күйде сақтаңыз.", "note": "Real issue; proposed fix is correct"}
+{"key": "roulette_buy_spin", "verdict": "ok", "text": "Айналдыру сатып алу", "note": "Real issue; proposed fix is correct"}
+{"key": "tune_detail_transmission", "verdict": "ok", "text": "ТРАНСМИССИЯ", "note": "Real issue; proposed fix is correct"}
+{"key": "setting", "verdict": "improve", "text": "ОЙЫН\nБАПТАУЛАРЫ", "note": "Source is ALL CAPS"}
+{"key": "transmission", "verdict": "ok", "text": "Трансмиссия", "note": "Real issue; proposed fix is correct"}
+{"key": "birthday_premium_title", "verdict": "ok", "text": "Премиум тапсырмаларға қол жеткізіп,\nең үздік сыйлықтарды алыңыз!", "note": "Real issue; proposed fix is correct"}
+{"key": "ct_inventory_is_full", "verdict": "ok", "text": "Инвентарьда орын жоқ!", "note": "Real issue; proposed fix is correct"}
+{"key": "blackListinfoHowToPlayTitle", "verdict": "ok", "text": "Ивентке қалай қатысуға болады?", "note": "Real issue; proposed fix is correct"}
+{"key": "blackListUpgradesTabMechanic", "verdict": "ok", "text": "Дала механигі", "note": "Real issue; proposed fix is correct"}
+{"key": "laAuthorizationErrorViaApple", "verdict": "ok", "text": "Apple арқылы авторландыру қатесі", "note": "Real issue; proposed fix is correct"}
+{"key": "vk", "verdict": "ok", "text": "ВКонтакте", "note": "Real issue; proposed fix is correct"}
+{"key": "tune_detail_horn", "verdict": "ok", "text": "КЛАКСОНДАР", "note": "Real issue; proposed fix is correct"}
+{"key": "for_word", "verdict": "ok", "text": "үшін", "note": "Real issue; proposed fix is correct"}
+{"key": "fraction_vehicles_desc", "verdict": "ok", "text": "Ұйым көліктерін \nспавндау", "note": "Real issue; proposed fix is correct"}
+{"key": "buyDealPickaxe", "verdict": "ok", "text": "ҚАЙЛА САТЫП АЛУ", "note": "Real issue; proposed fix is correct"}
+{"key": "expedition_spend", "verdict": "ok", "text": "Энергияны\nэкспедиция картасын\nзерттеуге жұмса", "note": "Real issue; proposed fix is correct"}
+{"key": "blackListinfoIncreaseRankDescription", "verdict": "ok", "text": "Бедел жинау үшін келісімшарттарды орындап, жарыстарға қатысыңыз. Жаңа ранг — жаңа келісімшарттарға, премиум сыйлықтарға және косметикаға қолжетімділік", "note": "Real issue; proposed fix is correct"}
+{"key": "blackListUpgradesBonusWrongTracksDesc", "verdict": "improve", "text": "келісімшарт сайын картадағы белгіңізді және кейіпкер үстіндегі белгіні жасыра аласыз:", "note": "Glossary: персонаж -> кейіпкер"}
+{"key": "blackListDailyDescription", "verdict": "ok", "text": "Сыйлық алу үшін ивенттегі кез келген белсенділікті орындаңыз", "note": "Real issue; proposed fix is correct"}
+{"key": "twix_card_title_2", "verdict": "ok", "text": "Шоколад, шоколад, шоколад", "note": "Real issue; proposed fix is correct"}
+{"key": "tuning_balance", "verdict": "improve", "text": "шотыңызда", "note": "Source is lowercase fragment"}
+{"key": "bank_piggy_bank", "verdict": "ok", "text": "Жинақ жәшігі", "note": "Real issue; proposed fix is correct"}
+{"key": "fam_treasury_sum", "verdict": "improve", "text": "Салу/алу сомасы", "note": "'Салу/алу' is the natural deposit/withdraw pair; 'Толтыру' awkward"}
+{"key": "craftingChance", "verdict": "ok", "text": "Крафт\nшансы", "note": "Real issue; proposed fix is correct"}
+{"key": "bankConfirmTransferTo", "verdict": "ok", "text": "ойыншыға", "note": "Real issue; proposed fix is correct"}
+{"key": "blackListinfoHowToPlayStep6", "verdict": "ok", "text": "Жарыстарда бедел жинаңыз — жарыстарға қатысып, ұпай табыңыз.", "note": "Real issue; proposed fix is correct"}
+{"key": "caseSales", "verdict": "ok", "text": "Кейстерге жеңілдіктер", "note": "Real issue; proposed fix is correct"}
+{"key": "mediumDescription", "verdict": "ok", "text": "Стандартты графика баптаулары, барлық телефондар үшін ең жақсы шешім.", "note": "Real issue; proposed fix is correct"}
+{"key": "twix_card_desc_0", "verdict": "ok", "text": "Сіз ұнды кухня комбайнының ыдысына електен өткізіп қойдыңыз. Енді оған қант пен салқындатылған сары майды араластыру ғана қалды.\n\nСізді жұмыста күтеміз!", "note": "Real issue; proposed fix is correct"}
+{"key": "twix_card_desc_1", "verdict": "ok", "text": "Сіз қамыр қабатын алдыңыз, енді оған тағы бір қабат – қайнатылған қоюлатылған сүт жағу керек. Ең ашық, карамель реңкті түрін таңдаңыз.", "note": "Real issue; proposed fix is correct"}
+{"key": "accessories_type_caps", "verdict": "ok", "text": "КЕПКАЛАР", "note": "Real issue; proposed fix is correct"}
+{"key": "tune_buy_wheel", "verdict": "ok", "text": "Дискілер №", "note": "Real issue; proposed fix is correct"}
+{"key": "alchemic_kettle_will_cooldown", "verdict": "improve", "text": "Қазан суығанша:", "note": "Proposed 'мына уақыттан кейін' is clunky; prefix before timer value"}
+{"key": "craftingItems", "verdict": "ok", "text": "Қорлаулар", "note": "Real issue; proposed fix is correct"}
+{"key": "structureAnalysis", "verdict": "ok", "text": "Құрылымды нығайту және дамыту бізден қатысушылардың қойылған міндеттерге қатысты ұстанымдарын\nталдауды талап етеді. Сол сияқты, ұйымдастырудың жаңа\nүлгісі", "note": "Real issue; proposed fix is correct"}
+{"key": "halloweenHuntersKit", "verdict": "ok", "text": "АҢШЫ\nЖИНАҒЫ", "note": "Real issue; proposed fix is correct"}
+{"key": "pirate_main_prizes", "verdict": "ok", "text": "Басты жүлделер", "note": "Real issue; proposed fix is correct"}
+{"key": "alchemy_box", "verdict": "ok", "text": "Қорап", "note": "Real issue; proposed fix is correct"}
+{"key": "lnyMapUnavailable", "verdict": "ok", "text": "Бұл аймақ қолжетімді емес. Алдыңғы аймақты босатыңыз.", "note": "Real issue; proposed fix is correct"}
+{"key": "sct_sell_input_price", "verdict": "ok", "text": "НӨМІРДІ САТУ ҚҰНЫН ЕНГІЗІҢІЗ", "note": "Real issue; proposed fix is correct"}
+{"key": "goldenTicketInfoP2", "verdict": "ok", "text": "Рұқсатнаманы сатып алу\nпремиум марапаттарды ашады", "note": "Real issue; proposed fix is correct"}
+{"key": "bigCatchTournamentsVictories", "verdict": "ok", "text": "Турнирлердегі жеңістер", "note": "missing key; correct translation"}
+{"key": "inventoryMailSubsectionLeftHand", "verdict": "ok", "text": "Сол қол", "note": "missing key; correct and short"}
+{"key": "newYearInfoDesc2", "verdict": "improve", "text": "Тапсырмалар үшін Маусымдық пасс тәжірибесін және Кәмпиттер алуға болады.\n\nКүнделікті тапсырмалар күн сайын жаңарады, оларды арнайы бустер арқылы да жаңартуға болады.\n\nМаусымдық пасты сатып алғанда арнайы тапсырмаларға қолжетімділік ашылады.", "note": "removed doubled 'Сондай-ақ', smoother passive"}
+{"key": "tablet_auc_all_your_bets", "verdict": "ok", "text": "Барлық ставкаларыңыз", "note": "missing key; fine"}
+{"key": "settingsGameShowHud", "verdict": "ok", "text": "HUD көрсету", "note": "Uzbek replaced with Kazakh"}
+{"key": "arena_starting_health", "verdict": "ok", "text": "Бастапқы денсаулық", "note": "Uzbek replaced; also fixes 'standard' meaning"}
+{"key": "birthday_info_more_play", "verdict": "improve", "text": "Неғұрлым көп ойнасаң, соғұрлым сен де, командаң да жоғары көтерілесіңдер!", "note": "compound subject needs plural verb -сіңдер; соғұрлым placement"}
+{"key": "launcherSettingsDeleteAccountConfirm", "verdict": "ok", "text": "Ойын профилін жою үшін\nқосымша жабылады.\nӨтінеміз, оны қайта іске қосыңыз.", "note": "Portuguese replaced; line breaks kept"}
+{"key": "predictionsBuyCoinsMinError", "verdict": "improve", "text": "{min} мөлшерінен аз сатып алуға болмайды", "note": "keep the negative error sense of source; head noun carries suffix; parallel with max"}
+{"key": "chaosStep3Part1Text", "verdict": "ok", "text": "Тапсырмалар қайда барарыңды білмесең,\nкелесі не істеу керегін айтып береді. Тек\nмақсатты таңда — қала сені сынаудың жолын өзі табады.", "note": "Russian replaced; natural, breaks kept"}
+{"key": "schDuelsPointsAmount", "verdict": "ok", "text": "{points} ҰПАЙ", "note": "placeholder restored"}
+{"key": "schStoreCasePossiblePrizes", "verdict": "ok", "text": "Мүмкін сыйлықтар: {title}", "note": "placeholder braces restored"}
+{"key": "jungleTreasuresRecieveImmediately", "verdict": "ok", "text": "және затты бірден алу", "note": "Russian replaced"}
+{"key": "edu_desc_hud_control_enter_vehicle", "verdict": "improve", "text": "Тамаша, көлікті аша алдың. Енді экранның оң жағындағы батырманы басып, көлікке отыр.", "note": "'аша алдың' matches 'получилось'; 'көлікке отыр' clearer than 'оған отыр'"}
+{"key": "tune_buy_neon", "verdict": "ok", "text": "Неон түсі", "note": "filler removed"}
+{"key": "bankDays1", "verdict": "ok", "text": "1 күн", "note": "filler removed"}
+{"key": "newYearToStore", "verdict": "ok", "text": "ДҮКЕНГЕ", "note": "filler removed; caps kept"}
+{"key": "dragRacingTypeStreet", "verdict": "ok", "text": "Көше жарыстары", "note": "Russian replaced; consistent with file"}
+{"key": "predictionsBetsResultWin", "verdict": "ok", "text": "Жеңіс", "note": "filler removed"}
+{"key": "accessories_type_other", "verdict": "improve", "text": "ӘРТҮРЛІ", "note": "source is ALL CAPS; 'әртүрлі' = разное"}
+{"key": "tp_skins", "verdict": "ok", "text": "Скиндер", "note": "glossary скин; 'терілер' = hides"}
+{"key": "questsV2CalendarAboutClickToContinue", "verdict": "false_positive", "text": null, "note": "'Жалғастыру үшін басыңыз' is the exact, same-length translation; no filler"}
+{"key": "marketplace_skins_tab", "verdict": "improve", "text": "СКИНДЕР", "note": "glossary fix but source is ALL CAPS"}
+{"key": "drag_race_iron_league", "verdict": "ok", "text": "Темір лига", "note": "pickaxe -> league"}
+{"key": "height", "verdict": "improve", "text": "БИІКТІК", "note": "label needs nominative; 'БИІКТІГІ' is possessive"}
+{"key": "expedition_cancel", "verdict": "ok", "text": "Болдырмау", "note": "Start -> Cancel"}
+{"key": "alabugaSchoolAllDay", "verdict": "ok", "text": "тәулік бойы", "note": "wrong hours replaced with 24/7"}
+{"key": "tp_accs", "verdict": "ok", "text": "Аксессуарлар", "note": "Kazakh plural"}
+{"key": "selectRegionConfirmTitle", "verdict": "ok", "text": "СІЗ ШЫНЫМЕН\nаймақты өзгерткіңіз келе ме?", "note": "task -> region; newline and case pattern restored"}
+{"key": "battlepass_cancel", "verdict": "ok", "text": "БОЛДЫРМАУ", "note": "Start -> Cancel"}
+{"key": "donate_case_opening", "verdict": "ok", "text": "Кейс ашылуда..", "note": "glossary кейс"}
+{"key": "tune_buy_headlights_color", "verdict": "ok", "text": "Фар түсі", "note": "traffic light -> headlights"}
+{"key": "to", "verdict": "ok", "text": "дейін", "note": "now -> until"}
+{"key": "fraction_vehicles_spawn", "verdict": "ok", "text": "Спавндау", "note": "'put to sleep' replaced with game jargon spawn"}
+{"key": "eduSelectSkin", "verdict": "ok", "text": "Кейіпкердің скинін таңдаңыз", "note": "glossary скин; capitalised"}
+{"key": "enter", "verdict": "ok", "text": "Ойын бойынша тілектеріңізді енгізіңіз", "note": "correct input hint"}
+{"key": "halloweenWitchCity", "verdict": "ok", "text": "МЫСТАНДАР ҚАЛАСЫ", "note": "rays -> witches"}
+{"key": "alchemyItemWoodpecker", "verdict": "ok", "text": "Тоқылдақ", "note": "Kazakh word for woodpecker"}
+{"key": "blackListinfoProfitInfoPostStep1", "verdict": "ok", "text": "Отын — келісімшарттар мен жарыстар үшін қажет. Уақыт өте келе қалпына келеді.", "note": "non-word fixed"}
+{"key": "footballHudTitle", "verdict": "ok", "text": "АВТО-РЕГБИ", "note": "English replaced; matches mode name in file"}
+{"key": "bigCatchTutorialTextTaskFirst", "verdict": "ok", "text": "Алдымен негіздерден бастайық.\nСюжет бөліміне өтіп,\nалғашқы тапсырманы ал.\nМен сен үшін бастапқы\nқармақ жинағын дайындадым!", "note": "Latin i homoglyphs fixed"}
+{"key": "laReauthorizationRequired", "verdict": "ok", "text": "Қайта авторизация қажет", "note": "к -> қ"}
+{"key": "drag_1every12", "verdict": "ok", "text": "12 сағат сайын 1 рет", "note": "г -> ғ"}
+{"key": "tp_create_title", "verdict": "ok", "text": "Сатуды құру", "note": "к -> қ"}
+{"key": "newYearSeasonQuests", "verdict": "ok", "text": "Мезгілдік тапсырмалар", "note": "и -> і"}
+{"key": "questsV2CalendarAboutTaskTitle1", "verdict": "ok", "text": "Көліктерді\nТабыңыз", "note": "о -> ө"}
+{"key": "laBillingUnavailable", "verdict": "ok", "text": "Бұл құрылғыда {provider} арқылы төлеу қолжетімді емес.", "note": "hard-coded suffix removed; 'арқылы' = через"}
+{"key": "predictionsBuyCoinsMaxError", "verdict": "improve", "text": "{max} мөлшерінен көп сатып алуға болмайды", "note": "keep negative error sense; head noun carries suffix; parallel with min"}
+{"key": "complaint_error_rules", "verdict": "ok", "text": "Ойыншы бұзған ережелерді енгізіңіз", "note": "у -> ұ"}
+{"key": "wheelOfFortuneBuyFor", "verdict": "ok", "text": "{price} сомасына сатып алу", "note": "hard-coded suffix removed via head noun"}
+{"key": "laDeleteAccountHelp1", "verdict": "ok", "text": "СІЗ ШЫНЫМЕН ДЕ АККАУНТТЫ\nӨШІРГІҢІЗ КЕЛЕ МЕ?", "note": "glossary аккаунт"}
+{"key": "drom_choose_car", "verdict": "ok", "text": "Автомобильді таңдау", "note": "vowel harmony fixed"}
+{"key": "laGoToLauncher", "verdict": "ok", "text": "Лаунчерге өту", "note": "glossary лаунчер"}
+{"key": "shopNewConfirmEnd", "verdict": "ok", "text": "кейсті сатып алғыңыз\nкелетініне сенімдісіз бе?", "note": "typo кейді -> кейсті"}
+{"key": "chaosPvpCancelText", "verdict": "ok", "text": "Сіз шынымен ойыншыларды\nіздеуді тоқтатқыңыз келе ме?", "note": "glossary ойыншы"}
+{"key": "alchemic_top_potion_players", "verdict": "ok", "text": "Зельелер бойынша ТОП ойыншы", "note": "sweets -> potions; 'зелье' is the established term in this file"}
+{"key": "onex_profile_won", "verdict": "ok", "text": "Ұтып алынды", "note": "lost -> won"}
+{"key": "family_upgrade_info", "verdict": "ok", "text": "Отбасыңыздың сипаттамаларын жақсарту", "note": "send -> upgrade"}
+{"key": "halloweenStoreUpdate", "verdict": "improve", "text": "ТАУАР ТІЗІМІН ШЫНЫМЕН\nЖАҢАРТҚЫҢЫЗ КЕЛЕ МЕ?", "note": "fix good, but source is ALL CAPS with one line break"}
+{"key": "blackListinfoHowToPlayStep3", "verdict": "ok", "text": "Машинаны ұрлап, жеткізіңіз — таймер біткенше үлгеріңіз, машинаны жақсы күйде сақтаңыз.", "note": "nonsense phrase fixed"}
+{"key": "blackListinfoRewardsList", "verdict": "ok", "text": "• Эксклюзивті көліктер\n• Дүкендердегі жеңілдіктер\n• Бірегей скиндер\n• Тақырыптық аксессуарлар", "note": "non-words fixed; glossary скин"}
+{"key": "before", "verdict": "ok", "text": "дейін", "note": "now -> until"}
+{"key": "tablet_app_balance", "verdict": "ok", "text": "Баланс", "note": "cash -> balance"}
+{"key": "dailyRewards", "verdict": "ok", "text": "Күнделікті сыйлықтар", "note": "daily restored"}
+{"key": "present", "verdict": "ok", "text": "Қосымшаны бағалағаныңыз үшін жағымды бонус аласыз", "note": "full meaning restored"}
+{"key": "halloweenInfo4", "verdict": "improve", "text": "20 МИНУТ САЙЫН ОЙЫН КАРТАСЫНЫҢ КЕЗДЕЙСОҚ ЖЕРІНДЕ АЛЫП АСҚАБАҚ ПАЙДА БОЛАДЫ. ОНЫ АЛҒАШ ТАПҚАН 4 ОЙЫНШЫ ЭКСПЕДИЦИЯ КАРТАСЫНА ЭНЕРГИЯ, АСҚАБАҚ, ОҚ-ДӘРІ ЖӘНЕ ҚҰЛЫП АШҚЫШТАР АЛАДЫ. ЕҢ ЖЫЛДАМ ҚАТЫСУШЫЛАР АИРДРОПТАН ЕҢ ҮЛКЕН СЫЙЛЫҚ АЛАДЫ.", "note": "'сыңар кілттер' is wrong for lockpicks -> 'құлып ашқыштар'; restored 'random place'; source ALL CAPS"}
+{"key": "drom", "verdict": "ok", "text": "Дром", "note": "house -> drom"}
+{"key": "blackListinfoProfitInfoStep1", "verdict": "ok", "text": "Токендер — ивенттің негізгі валютасы. Шығын материалдары мен жақсартуларға жұмсаңыз.", "note": "glossary ивент; non-words fixed"}
+{"key": "blackListModifierTitle", "verdict": "ok", "text": "МОДИФИКАТОР ШАРТТАРЫ", "note": "non-word replaced"}
+{"key": "laAppleSuccessfullyLinked", "verdict": "ok", "text": "Apple сәтті байланысқан", "note": "Google -> Apple"}
+{"key": "job_end_game_error_desc", "verdict": "ok", "text": "Сіз қоюлатылған сүтті дұрыс таңдамадыңыз. Тағы бір рет көріңіз", "note": "capacitor -> condensed milk"}
+{"key": "tune_details_missing", "verdict": "ok", "text": "БӨЛШЕКТЕР ЖОҚ", "note": "data -> parts"}
+{"key": "bank_org_1", "verdict": "ok", "text": "фракция\nбалансы", "note": "Kazakh izafet order"}
+{"key": "pearl", "verdict": "ok", "text": "ІНЖУ", "note": "coral -> pearl"}
+{"key": "estateTrade", "verdict": "ok", "text": "Мүлік айырбастау", "note": "share -> exchange"}
+{"key": "settingsLocomotion", "verdict": "ok", "text": "ЖАЯУ БАСҚАРУ", "note": "pedestrians sense removed"}
+{"key": "blackListUpgradesTabThief", "verdict": "ok", "text": "Бұзушы", "note": "matches tutorial term"}
+{"key": "blackListUpgradesBonusWrongTracksActiveDesc", "verdict": "ok", "text": "Әр келісімшартта картадағы белгіңізді және персонаж үстіндегі белгіні жасыра аласыз:", "note": "hold -> hide; typo fixed"}
+{"key": "inventoryDeleteIrreversible", "verdict": "ok", "text": "Бұл зат инвентарыңыздан біржола жойылады.", "note": "glossary инвентарь"}
+{"key": "tesla_game_error_0", "verdict": "ok", "text": "Әрекеттер саны аяқталды. Қайталап көріңіз", "note": "offers -> attempts"}
+{"key": "drag_race_dialog_desc", "verdict": "ok", "text": "Өзіңізді нағыз жарысшы ретінде сезініңіз, көлігіңізді жақсартыңыз және күнделікті Drag Racing жарыстарына қатысыңыз!", "note": "runner -> racer. Note: source has a line break, old and new have none"}
+{"key": "entrance_roof", "verdict": "ok", "text": "кездесу белгілеу", "note": "slang sense restored"}
+{"key": "arena_sort_duels", "verdict": "ok", "text": "ДУЭЛЬДЕР", "note": "plural, consistent"}
+{"key": "pickaxeTrader", "verdict": "ok", "text": "Қайла сатушы", "note": "glossary қайла"}
+{"key": "lnyEducationTasksDailyTitle", "verdict": "ok", "text": "Күнделікті", "note": "consistent short label"}
+{"key": "bigCatchAllRewards", "verdict": "improve", "text": "Барлық сыйлықтар", "note": "term consistency ok, but source is not ALL CAPS"}
+{"key": "drag_next_races_after", "verdict": "reject_fix", "text": null, "note": "old is wrong (+5 min), but KK_NEW '+5 жарысқа дейін' = 'up to +5 races'; timer is appended after, needs rephrase/context"}
+{"key": "twix_making_cookie_game_game_desc", "verdict": "improve", "text": "Сіз ұнды ас үй комбайнының ыдысына електен өткізіп қойдыңыз. Енді оған қант пен салқындатылған сары майды қосып араластыру ғана қалды.", "note": "'кухня' is Russian -> 'ас үй'; 'қосып араластыру' natural"}
+{"key": "twix_card_info_0", "verdict": "ok", "text": "Twix фабрикасының 1 деңгейінен қолжетімді", "note": "brand restored"}
+{"key": "twix_card_desc_2", "verdict": "ok", "text": "Шоколадты ерітсеңіз болды, Twix таяқшасын кейін қаптау үшін мұздатуға жіберуге болады.\nШоколад бөліктерін таза, құрғақ ыдысқа салып, плитадағы қайнап жатқан су моншасына қойыңыз.", "note": "full meaning restored; breaks match"}
+{"key": "tune_detail_suspension", "verdict": "ok", "text": "АСПА", "note": "hanger -> suspension"}
+{"key": "tuning_detail_transmission", "verdict": "ok", "text": "Трансмиссия", "note": "distribution -> transmission"}
+{"key": "alchemy_monkey", "verdict": "ok", "text": "Маймыл", "note": "zodiac name -> animal"}
+{"key": "tablet_taxi_econom", "verdict": "ok", "text": "Эконом", "note": "taxi class name"}
+{"key": "rm_title_7", "verdict": "ok", "text": "Кісен салу", "note": "cuff someone"}
+{"key": "alchemySugarCane", "verdict": "ok", "text": "Қант қамысы", "note": "plant, not sugar"}
+{"key": "halloweenInfo9", "verdict": "ok", "text": "КӘМПИТ ЖИНАУ", "note": "spelling fixed"}
+{"key": "drom_sell_car_q", "verdict": "ok", "text": "Сатылымнан шынымен алып тастағыңыз келе ме?", "note": "typo fixed"}
+{"key": "blackListinfoProfitInfoStep2", "verdict": "ok", "text": "Бедел — рангіңізді көтеріп, жаңа келісімшарттарды ашады.", "note": "spelling and grammar fixed"}
+{"key": "pirate_buy_map", "verdict": "ok", "text": "Сіз шынымен\nҚазына картасының 2-деңгейін сатып алғыңыз келе ме?", "note": "question particle and newline restored"}
+{"key": "chaosStep1Part0Text", "verdict": "ok", "text": "Мұнда ережелерді тірі қалғандар жазатын қала арқылы\nсапарың басталады. Миссияларды орында, босстарды\nжең және турнирдің жаңа кезеңдерін аш.", "note": "босстарды spelling"}

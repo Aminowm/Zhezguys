@@ -1,0 +1,72 @@
+[
+  {
+    "key": "footballHudTitle",
+    "issue_type": "same_as_source",
+    "severity": "high",
+    "source": "КАР-РЕГБИ",
+    "target": "КАР-РЕГБИ",
+    "evidence": "two-word Russian phrase copied verbatim; the same source is translated elsewhere as 'АВТО-РЕГБИ'",
+    "suggestion": "АВТО-РЕГБИ",
+    "confidence": 0.85,
+    "reviewed_by_human": false,
+    "line": 5366,
+    "section": "football",
+    "detector": "identical_to_source"
+  },
+  {
+    "key": "footballHudTitle",
+    "issue_type": "orthography",
+    "severity": "medium",
+    "source": "КАР-РЕГБИ",
+    "target": "КАР-РЕГБИ",
+    "evidence": "«КАР» uses Russian look-alike letters (к→қ); the correct form «ҚАР» occurs 2× in the file",
+    "suggestion": "ҚАР-РЕГБИ",
+    "confidence": 0.92,
+    "reviewed_by_human": false,
+    "line": 5366,
+    "section": "football",
+    "detector": "lookalike_letter"
+  },
+  {
+    "key": "alchemic_potions",
+    "issue_type": "length_overflow",
+    "severity": "medium",
+    "source": "Зелья",
+    "target": "Сиқырлы сусындар",
+    "evidence": "16 chars vs 5 in source (x3.2, file median x0.98); reference lengths en=7, uz=8",
+    "suggestion": null,
+    "confidence": 0.76,
+    "reviewed_by_human": false,
+    "line": 1413,
+    "section": "ALCHEMIC",
+    "detector": "length_ratio"
+  },
+  {
+    "key": "start_english",
+    "issue_type": "inconsistent_term",
+    "severity": "medium",
+    "source": "старт",
+    "target": "start",
+    "evidence": "source 'старт' is translated as 'Бастау' in 3 of 4 keys (e.g. ['birthday_quests_start', 'newYearStart', 'blackListContractStart']) but as 'start' here",
+    "suggestion": "бастау",
+    "confidence": 0.65,
+    "reviewed_by_human": false,
+    "line": 1625,
+    "section": "OTHER",
+    "detector": "tm_majority"
+  },
+  {
+    "key": "tradePlatformCash",
+    "issue_type": "inconsistent_term",
+    "severity": "medium",
+    "source": "НАЛИЧНЫЕ",
+    "target": "ҚОЛМА-ҚОЛ",
+    "evidence": "source 'НАЛИЧНЫЕ' is translated as 'қолма-қол ақша' in 4 of 5 keys (e.g. ['slot_machine_rubles', 'marketplace_balance', 'inGameCurrency']) but as 'ҚОЛМА-ҚОЛ' here",
+    "suggestion": "ҚОЛМА-ҚОЛ АҚША",
+    "confidence": 0.65,
+    "reviewed_by_human": false,
+    "line": 4634,
+    "section": "bigCatch",
+    "detector": "tm_majority"
+  }
+]

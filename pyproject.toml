@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "locqa"
+version = "1.0.0"
+description = "Localization QA for Flutter ARB files: placeholders, ICU plurals, glossary, Kazakh affix harmony, wrong-language, look-alike letters"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.scripts]
+locqa = "locqa.cli:main"
+
+[tool.setuptools]
+packages = ["locqa"]
