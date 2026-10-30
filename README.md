@@ -87,10 +87,22 @@ File-level problems (keys defined twice with different values, extra keys) go to
 ## Tests
 
 ```bash
-python -m pytest -q        # 28 tests: parser, every check, affix rules, translit, fixer, CLI end-to-end
+python -m pytest -q        # 30 tests: parser, every check, affix rules, translit, fixer, CLI end-to-end
 ```
 
-## Data
+## Data and results
 
-The organizers' ARB files are confidential. Keep `data/`, `work/` and `out/` out of public repositories
-(see `.gitignore`).
+The organizers' raw ARB files are confidential and are **not** committed here (`data/` is gitignored,
+per the case rules — "data in it there must not be"). Everything this tool *produced* from them is
+committed as the required deliverables:
+
+* `out/report.json` / `out/report.html` — the findings (349 at `--min-confidence 0.6`, 338 more candidates
+  below threshold) and the review console.
+* `out/intl_kk_fixed.arb` — the corrected Kazakh file. 313 strings changed; every one carries
+  `reviewed_by_human: true` and the reviewer's name after a native Kazakh speaker went through
+  `report.html` (see `work/decisions.json`: 269 accepted, 45 edited, 2 rejected as false positives).
+  Re-running `check` against the fixed file drops the finding count from 349 to 5.
+* `glossary.csv` — the game-term glossary used by `glossary_violation`.
+* `work/` — the raw LLM review and verification passes (`kk_llm_review.jsonl`, `kk_verify.jsonl`) that fed
+  into the report, plus the exported human decisions.
+* `docs/METHODOLOGY.md` — how findings were detected and fixed, and the limitations we're aware of.
