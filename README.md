@@ -102,6 +102,8 @@ committed as the required deliverables:
   `reviewed_by_human: true` and the reviewer's name after a native Kazakh speaker went through
   `report.html` (see `work/decisions.json`: 269 accepted, 45 edited, 2 rejected as false positives).
   Re-running `check` against the fixed file drops the finding count from 349 to 5.
+  A second reviewer re-checked 40 random accepted strings and confirmed all 40
+  (`work/second_review_40.csv`).
 * `glossary.csv` — the game-term glossary used by `glossary_violation`.
 * `work/` — the raw LLM review and verification passes (`kk_llm_review.jsonl`, `kk_verify.jsonl`) that fed
   into the report, plus the exported human decisions.
