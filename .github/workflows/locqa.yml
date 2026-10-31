@@ -1,17 +1,33 @@
 name: Localization QA
 
 on:
+  push:
+    branches: [main]
   pull_request:
     paths:
       - "**/*.arb"
       - "glossary.csv"
+      - "locqa/**"
+      - "tests/**"
 
 permissions:
   contents: read
   pull-requests: write
 
 jobs:
+  selftest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install . pytest
+      - run: python -m pytest -q
+
   locqa:
+    if: github.event_name == 'pull_request'
+    needs: selftest
     runs-on: ubuntu-latest
     env:
       L10N_DIR: lib/l10n            # where intl_*.arb live in the game repo
@@ -24,7 +40,13 @@ jobs:
         with:
           python-version: "3.12"
       - name: Install locqa
-        run: pip install ./tools/locqa || pip install git+https://github.com/${{ github.repository_owner }}/locqa.git
+        # In this repo locqa sits at the root. In the game repo, install it from here.
+        run: |
+          if [ -f pyproject.toml ] && grep -q 'name = "locqa"' pyproject.toml; then
+            pip install .
+          else
+            pip install "git+https://github.com/Aminowm/Zhezguys.git"
+          fi
       - name: Changed ARB files
         id: changed
         run: |
